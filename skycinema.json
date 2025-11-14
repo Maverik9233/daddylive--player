@@ -1,7 +1,7 @@
 [
   {
-    "name": "Sky Cinema Collection Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+    "name": "Sky Cinema Collection",
+    "image": "https://skymedia.it/wp-content/uploads/2019/06/SKY_CINEMA_COLLECTION.png",
     "url": "https://daddylivestream.com/stream/stream-859.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
@@ -9,8 +9,8 @@
     "isHost": true
   },
   {
-    "name": "Sky Cinema Drama Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+    "name": "Sky Cinema Drama",
+    "image": "https://skymedia.it/wp-content/uploads/2019/06/SKY_CINEMA_DRAMA.png",
     "url": "https://daddylivestream.com/stream/stream-867.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
@@ -18,8 +18,8 @@
     "isHost": true
   },
   {
-    "name": "Sky Cinema Due +24 Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+    "name": "Sky Cinema Due +24",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Sky_Cinema_Due_%2B24_-_2021_logo.svg/2560px-Sky_Cinema_Due_%2B24_-_2021_logo.svg.png",
     "url": "https://daddylivestream.com/stream/stream-866.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
@@ -27,8 +27,8 @@
     "isHost": true
   },
   {
-    "name": "Sky Cinema Family Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+    "name": "Sky Cinema Family",
+    "image": "https://skymedia.it/wp-content/uploads/2019/06/SKY_CINEMA_FAMILY.png",
     "url": "https://daddylivestream.com/stream/stream-865.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
@@ -36,8 +36,8 @@
     "isHost": true
   },
   {
-    "name": "Sky Cinema Action Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+    "name": "Sky Cinema Action",
+    "image": "https://skymedia.it/wp-content/uploads/2019/06/SKY_CINEMA_ACTION.png",
     "url": "https://daddylivestream.com/stream/stream-861.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
@@ -45,8 +45,8 @@
     "isHost": true
   },
   {
-    "name": "Sky Cinema Romance Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+    "name": "Sky Cinema Romance",
+    "image": "https://skymedia.it/wp-content/uploads/2019/06/SKY_CINEMA_ROMANCE.png",
     "url": "https://daddylivestream.com/stream/stream-864.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
@@ -54,8 +54,8 @@
     "isHost": true
   },
   {
-    "name": "Sky Cinema Uno +24 Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+    "name": "Sky Cinema Uno +24",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.e2wVlmmVUFb_zK7rCK9pbQHaBy?pid=Api&P=0&h=180.PNG",
     "url": "https://daddylivestream.com/stream/stream-863.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
@@ -63,8 +63,8 @@
     "isHost": true
   },
   {
-    "name": "Sky Cinema Uno Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+    "name": "Sky Cinema Uno",
+    "image": "https://skymedia.it/wp-content/uploads/2019/06/SKY_CINEMA_UNO.png",
     "url": "https://daddylivestream.com/stream/stream-860.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
@@ -72,8 +72,17 @@
     "isHost": true
   },
   {
-    "name": "Sky Cinema Suspense Italy",
-    "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
+"name": "Sky Cinema Comedy",
+"image": "https://skymedia.it/wp-content/uploads/2019/06/SKY_CINEMA_COMEDY.png",
+"url": "https://daddylivestream.com/stream/stream-862.php",
+"referer": "https://fnjplay.xyz/",
+"origin": "https://fnjplay.xyz",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+"isHost": true
+},
+  {
+    "name": "Sky Cinema Suspense",
+    "image": "https://skymedia.it/wp-content/uploads/2019/06/SKY_CINEMA_SUSPENSE.png",
     "url": "https://daddylivestream.com/stream/stream-868.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
