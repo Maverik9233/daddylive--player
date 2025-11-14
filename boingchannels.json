@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Boing",
+    "image": "https://www.dropbox.com/scl/fi/qtxdv5ypierjsdafl9xb1/boing.png?rlkey=ahfj9adnuzfm2jt61kdmyw124&st=7xlklqy3&dl=1",
+    "url": "https://live02-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Boing plus",
+    "image": "https://www.dropbox.com/scl/fi/qtxdv5ypierjsdafl9xb1/boing.png?rlkey=ahfj9adnuzfm2jt61kdmyw124&st=qa9yvhja&dl=1",
+    "url": "https://uvotv.zappr.stream/101.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  }
+]
