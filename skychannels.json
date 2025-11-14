@@ -8,34 +8,34 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
- {
-"name": "Sky Uno",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0z2pmKT5k0xuSI3oPhdPwGGzX8VLbDuxqA&s",
-"url": "https://ava.karmakurama.com/?id=881",
-"referer": "https://enz.gdplayertv.to/",
-"origin": "https://enz.gdplayertv.to",
-"userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-"isHost": true
-},
-{
-"name": "Sky Atlantic",
-"image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sky_Atlantic_DE_Logo_2015.png",
-"url": "https://kool.to/play/1482866609/index.m3u8",
-"referer": "https://fnjplay.xyz/",
-"origin": "https://fnjplay.xyz",
-"userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-"isHost": true
-}, 
-{
-"name": "Sky Atlanticv2",
-"image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sky_Atlantic_DE_Logo_2015.png",
-"url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/185.m3u8",
-"referer": "https://fnjplay.xyz/",
-"origin": "https://fnjplay.xyz",
-"userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-"isHost": true
-}, 
-{
+  {
+    "name": "Sky Uno",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0z2pmKT5k0xuSI3oPhdPwGGzX8VLbDuxqA&s",
+    "url": "https://ava.karmakurama.com/?id=881",
+    "referer": "https://enz.gdplayertv.to/",
+    "origin": "https://enz.gdplayertv.to",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Sky Atlantic",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sky_Atlantic_DE_Logo_2015.png",
+    "url": "https://kool.to/play/1482866609/index.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Sky Atlanticv2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sky_Atlantic_DE_Logo_2015.png",
+    "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/185.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
     "name": "Sky Investigation",
     "image": "https://www.lyngsat.com/logo/tv/ss/sky-investigation-it.png",
     "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/40027.m3u8",
@@ -53,7 +53,7 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-{
+  {
     "name": "Cinema Animazione",
     "image": "https://skymedia.it/wp-content/uploads/2021/02/Immagine1-2.png",
     "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/40877.m3u8",
@@ -71,7 +71,7 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-{
+  {
     "name": "Cinema Azione",
     "image": "https://skymedia.it/wp-content/uploads/2021/02/Immagine1-2.png",
     "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/40875.m3u8",
@@ -89,7 +89,7 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-{
+  {
     "name": "Cinema Comico",
     "image": "https://skymedia.it/wp-content/uploads/2021/02/Immagine1-2.png",
     "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/40878.m3u8",
@@ -107,7 +107,7 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-{
+  {
     "name": "Cinema Avventura",
     "image": "https://skymedia.it/wp-content/uploads/2021/02/Immagine1-2.png",
     "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/40880.m3u8",
@@ -125,7 +125,7 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-{
+  {
     "name": "Cinema Fiabe Magiche",
     "image": "https://skymedia.it/wp-content/uploads/2021/02/Immagine1-2.png",
     "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/40871.m3u8",
@@ -143,7 +143,7 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-{
+  {
     "name": "Cinema Thriller",
     "image": "https://skymedia.it/wp-content/uploads/2021/02/Immagine1-2.png",
     "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/40870.m3u8",
@@ -161,7 +161,7 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-{
+  {
     "name": "Cinema fantascienza",
     "image": "https://skymedia.it/wp-content/uploads/2021/02/Immagine1-2.png",
     "url": "http://human2028netest.blogdns.net:80/live/00:c3:f4:ab:ee:fd/fENMfmX7/40872.m3u8",
