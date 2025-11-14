@@ -88,5 +88,14 @@
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
+  },
+   {
+    "name": "Sky Cinema",
+    "image": "https://bifa.imgix.net/web/2022/10/Sky_Cinema_PRIMARY_RGB.png?auto=compress%2Cformat&ixlib=php-3.3.1.png",
+    "url": "https://daddylivestream.com/stream/stream-859.php",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
   }
 ]
