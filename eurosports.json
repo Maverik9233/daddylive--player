@@ -2,7 +2,7 @@
   {
     "name": "Eurosport 1",
     "image": "https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png",
-    "url": "https://dlhd.dad/stream/stream-878.php",
+    "url": "https://streamproxy.mauriziot.workers.dev/?url=https://dlhd.dad/stream/stream-878.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -11,7 +11,7 @@
   {
     "name": "Eurosport 2",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Eurosport2_hd_%282011-2015%29.png",
-    "url": "https://dlhd.dad/stream/stream-879.php",
+    "url": "https://streamproxy.mauriziot.workers.dev/?url=https://dlhd.dad/stream/stream-879.php",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
