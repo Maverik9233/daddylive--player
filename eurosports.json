@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Eurosport 1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",
+    "url": "https://dlhd.dad/stream/stream-878.php",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Eurosport 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png",
+    "url": "https://dlhd.dad/stream/stream-879.php",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  }
+]
