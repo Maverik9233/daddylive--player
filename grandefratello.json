@@ -2,7 +2,7 @@
   {
     "name": "GF regia 1",
     "image": "https://www.dropbox.com/scl/fi/2e9k17gk8bl95u78vhiey/gf.png?rlkey=mvcfwploulmjx040p4cz9c7qh&st=a7wdga9h&dl=1",
-    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8",
+    "url": "https://streamproxy.mauriziot.workers.dev/?url=https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -11,7 +11,7 @@
   {
     "name": "GF regia 2",
     "image": "https://www.dropbox.com/scl/fi/2e9k17gk8bl95u78vhiey/gf.png?rlkey=mvcfwploulmjx040p4cz9c7qh&st=a7wdga9h&dl=1",
-    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8",
+    "url": "https://streamproxy.mauriziot.workers.dev/?url=https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -20,7 +20,7 @@
   {
     "name": "GF 1 ora fa",
     "image": "https://www.dropbox.com/scl/fi/2e9k17gk8bl95u78vhiey/gf.png?rlkey=mvcfwploulmjx040p4cz9c7qh&st=a7wdga9h&dl=1",
-    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8",
+    "url": "https://streamproxy.mauriziot.workers.dev/?url=https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
