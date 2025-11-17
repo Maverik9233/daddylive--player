@@ -1,0 +1,722 @@
+[
+  {
+    "name": "ANS Tv TeleMessina",
+    "image": "http://odmsto.com/uploads/tv_image/sm/ans-tv-telemessina.png",
+    "url": "https://tivusto.org/sh/ansmessina",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Agrigento Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/agrigento-tv.png",
+    "url": "https://tivusto.org/sh/agrigentotv",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Alpauno",
+    "image": "http://odmsto.com/uploads/tv_image/sm/alpa-uno.png",
+    "url": "https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Antenna Sicilia",
+    "image": "http://odmsto.com/uploads/tv_image/sm/antenna-sicilia.png",
+    "url": "https://eus22.playlist.live-video.net/v1/playlist/CvEFSoEevo_JC60bn1yoLuQyd08e5csFwBMaFGDa4g-NwAChHs6h6OMA6tXe8aVRAHsdoRV8eIe5uR7xh6wSsVVXeVFfkqa0-BYa2TO8lvLEtfLW3RsE0-j3lq-hh4oSs590SIoBtpdt50LWffrSHmeh5A4njoF4gORZWaOWe7z-qG8yfWQSycuF56Fmr9tuW3pT7yGHaQ61irTSMp5OKuW-VdRYsjr57I-OmOgXh-2KGOQ3V77e1qhn4yjtBynSFWWjZUti0j4a6A3kiKv2MLy5xsB1qvFcSK8mogOAsGPWnBwIw8PGOYMJTaYU1Aq8t9lFXTmgzeLrooZjLR79l08uwQbe-VzJ6yROuXq67cTIEX1wnKrqljtr1OgV_U1-145AAwDtLqknbWMkv7P4ZGLU6FCGolMvwRN_BmJ0yu0A9ukXmWypNxJq7FGU7mu3LihZnY-TM3rhbnKHJLQAYGyx-Rx6Xd9g6oJjoTr7SMLSFaOraxlYeO4UeRH8v5IFHiRqEc4L4TyKJP-LvMb0YGT_c_YuhfIPqvUPtvIm6pIup_boHhYZixmTRb-Buns3YhJb-GDO_uFO2LUVTzNcglQV5J1UfF_4DXFFm4-LssyQ22KobWo9zXoeNXB9FqL1XUQJHUKO76ylxxQHS5fJ7YOJHGWUDlLwGeht-Yx66pzr13PP-WXM-j-dt6sUPT22YNrJBEP5nidBwhupta4C-bZolBJbv5svGNGlDZyjS09bMq3pQDNY90lx-8az8k-HlZpE6Gsygre_NYSxAcX8oIRP1emJJkCfgRkjEoTe1RcxjmvtTCo8qiEjss4ANH1AcXwi_Rko2bbmNd0DMabAycqRjZZEs7c0ti7_GIPbpsXDLlLK6nsMLDxRD32w1_FIgGE2gNwgLwyKEHMWuTHsVvXfAkRIG5VNVYpW3IxZn-9-4FP6KPXtauXBwM7VuOypIsdHzVzxILH1UWIcn7Tv0180OCQmjeRMSSGnsIAKz5Ig0XJ0GgwkC0-Zh0qDVAIC4EkgASoJZXUtd2VzdC0yMN4N.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Antenna Uno Lentini",
+    "image": "http://odmsto.com/uploads/tv_image/sm/antenna-uno-lentini.png",
+    "url": "https://stream9.xdevel.com/video0s976442-1228/stream/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 8",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-8-6hb5gnfur8r7.jpg",
+    "url": "https://tivusto.org/sh/can8avola",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 66",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-66-vizzini.JPG",
+    "url": "https://tivusto.org/sh/canale66",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 74 (Link2)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-74.png",
+    "url": "https://stream.cp.ets-sistemi.it:1936/canale74/canale74/chunklist_w1938752098.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 97 Sicilia",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-97-sicilia.jpg",
+    "url": "https://5db313b643fd8.streamlock.net/canale97/canale97/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Etna Espresso Channel",
+    "image": "http://odmsto.com/uploads/tv_image/sm/etna-espresso-channel.png",
+    "url": "https://tivusto.org/sh/etnach",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Global Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/global-tv.png",
+    "url": "https://eu1.vectromdigital.com:1936/tvrsicilia2/tvrsicilia2/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Globus Television",
+    "image": "http://odmsto.com/uploads/tv_image/sm/globus-television.png",
+    "url": "https://5f22d76e220e1.streamlock.net/globustelevision/globustelevision/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "In Sicilia Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/in-sicilia-tv.png",
+    "url": "https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "La3 Marsala (latr3)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/la3-marsala-latr3.png",
+    "url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Madonie Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/madonie-tv.png",
+    "url": "https://tivusto.org/sh/madonietv",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Nuova Tv 1",
+    "image": "http://odmsto.com/uploads/tv_image/sm/nuova-tv-1.png",
+    "url": "https://nuovatv.net:8443/tv/stream.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Nuova Tv 2",
+    "image": "http://odmsto.com/uploads/tv_image/sm/nuova-tv-2.png",
+    "url": "https://nuovatv.net:8443/tv2/stream.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Onda Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/onda-tv.png",
+    "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "P.B.M. Tv (Pubblimage Tv)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/pbm-tv-pubblimage-tv.jpg",
+    "url": "https://bbtv.intvstream.net:3044/stream/play.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Prima Tv Catania",
+    "image": "http://odmsto.com/uploads/tv_image/sm/prima-tv.png",
+    "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/chunklist_w1827249215.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "RMC 101 TV",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rmc-101-tv.png",
+    "url": "https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/chunklist_w2083631440.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "RTP",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rtp.png",
+    "url": "http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Radio Pantelleria",
+    "image": "http://odmsto.com/uploads/tv_image/sm/radio-pantelleria.png",
+    "url": "https://tivusto.org/sh/radiopantelleria",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Rei Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rei-tv.png",
+    "url": "https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Rete Chiara",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rete-chiara.png",
+    "url": "https://tivusto.org/sh/retechiara",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Sestarete Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/sestarete-tv.jpg",
+    "url": "https://64b16f23efbee.streamlock.net/sestarete/sestarete/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Sicilia 24",
+    "image": "http://odmsto.com/uploads/tv_image/sm/sicilia-24.jpg",
+    "url": "https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Siciliauno",
+    "image": "http://odmsto.com/uploads/tv_image/sm/siciliauno.jpg",
+    "url": "https://tivusto.org/sh/sicilia1",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "ANS Tv TeleMessina",
+    "image": "http://odmsto.com/uploads/tv_image/sm/ans-tv-telemessina.png",
+    "url": "https://tivusto.org/sh/ansmessina",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Agrigento Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/agrigento-tv.png",
+    "url": "https://tivusto.org/sh/agrigentotv",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Alpauno",
+    "image": "http://odmsto.com/uploads/tv_image/sm/alpa-uno.png",
+    "url": "https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Antenna Sicilia",
+    "image": "http://odmsto.com/uploads/tv_image/sm/antenna-sicilia.png",
+    "url": "https://rumble.com/live-hls-dvr/6xh0aw/playlist.m3u8?",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Antenna Uno Lentini",
+    "image": "http://odmsto.com/uploads/tv_image/sm/antenna-uno-lentini.png",
+    "url": "https://stream9.xdevel.com/video0s976442-1228/stream/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 2 TP (Offline)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-2-tp.jpg",
+    "url": "https://tivusto.org/sh/canale2trapani",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 8",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-8-6hb5gnfur8r7.jpg",
+    "url": "https://tivusto.org/sh/can8avola",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 66",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-66-vizzini.JPG",
+    "url": "https://tivusto.org/sh/canale66",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 74 (Link2)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-74.png",
+    "url": "https://stream.cp.ets-sistemi.it:1936/canale74/canale74/chunklist_w1938752098.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Canale 97 Sicilia",
+    "image": "http://odmsto.com/uploads/tv_image/sm/canale-97-sicilia.jpg",
+    "url": "https://5db313b643fd8.streamlock.net/canale97/canale97/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Etna Espresso Channel",
+    "image": "http://odmsto.com/uploads/tv_image/sm/etna-espresso-channel.png",
+    "url": "https://tivusto.org/sh/etnach",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Global Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/global-tv.png",
+    "url": "https://eu1.vectromdigital.com:1936/tvrsicilia2/tvrsicilia2/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Globus Television",
+    "image": "http://odmsto.com/uploads/tv_image/sm/globus-television.png",
+    "url": "https://5f22d76e220e1.streamlock.net/globustelevision/globustelevision/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "In Sicilia Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/in-sicilia-tv.png",
+    "url": "https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "La3 Marsala (latr3)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/la3-marsala-latr3.png",
+    "url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Madonie Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/madonie-tv.png",
+    "url": "https://tivusto.org/sh/madonietv",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Nuova Tv 1",
+    "image": "http://odmsto.com/uploads/tv_image/sm/nuova-tv-1.png",
+    "url": "https://nuovatv.net:8443/tv/stream.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Nuova Tv 2",
+    "image": "http://odmsto.com/uploads/tv_image/sm/nuova-tv-2.png",
+    "url": "https://nuovatv.net:8443/tv2/stream.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Onda Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/onda-tv.png",
+    "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "P.B.M. Tv (Pubblimage Tv)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/pbm-tv-pubblimage-tv.jpg",
+    "url": "https://bbtv.intvstream.net:3044/stream/play.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Prima Tv Catania",
+    "image": "http://odmsto.com/uploads/tv_image/sm/prima-tv-catania.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/prima/prima/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "PrimaTv Palermo",
+    "image": "http://odmsto.com/uploads/tv_image/sm/primatv-palermo.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/primatv/primatv/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Rete 8",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rete-8.png",
+    "url": "https://62ba512817a31.streamlock.net/rete8/rete8/chunklist_w584726846.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Rete Chiara",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rete-chiara.png",
+    "url": "https://srv.mediastreaming.it/retechiara/retechiara/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Rete Sei",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rete-sei.png",
+    "url": "https://5db313b643fd8.streamlock.net/8264/8264/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Reteiblea",
+    "image": "http://odmsto.com/uploads/tv_image/sm/reteiblea.png",
+    "url": "https://tivusto.org/sh/reteiblea",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "RTC Canale 16",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rtc-canale-16.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/rtc/rtc/chunklist_w1148330706.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "RS 95",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rs-95.png",
+    "url": "http://51.254.76.33:8080/hls/lv99.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Rta Messina",
+    "image": "http://odmsto.com/uploads/tv_image/sm/rta-messina.png",
+    "url": "https://tivusto.org/sh/rtamessina",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Sap Tv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/sap-tv.png",
+    "url": "https://srv.mediastreaming.it/saptv/saptv/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Sestarete (retesette)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/sestarete-retesette.png",
+    "url": "https://streaming.sestarete.com:3030/hls/sestar1/index.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Sicilia Uno",
+    "image": "http://odmsto.com/uploads/tv_image/sm/sicilia-uno.png",
+    "url": "https://srv.mediastreaming.it/siciliauno/siciliauno/chunklist_w129562596.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Sicilia Tv Panorama",
+    "image": "http://odmsto.com/uploads/tv_image/sm/sicilia-tv-panorama.jpg",
+    "url": "https://streaming.softec.agency:3549/live/livestream.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Siciliauno Portali",
+    "image": "http://odmsto.com/uploads/tv_image/sm/siciliauno-portali.jpg",
+    "url": "https://srv.mediastreaming.it/siciliauno_mp4/siciliauno_mp4/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Siracusa Times",
+    "image": "http://odmsto.com/uploads/tv_image/sm/siracusa-times.png",
+    "url": "https://59d7d6f47d7fc.streamlock.net/siracusati/siracusati/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "SpicaTv",
+    "image": "http://odmsto.com/uploads/tv_image/sm/spicatv.png",
+    "url": "https://5d8c47429793d.streamlock.net/SpicaTV/livestream/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Srf77",
+    "image": "http://odmsto.com/uploads/tv_image/sm/srf77.png",
+    "url": "http://wms.shared.streamshow.it/srf/mp4:mpegts.stream_360p/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Teleacras",
+    "image": "http://odmsto.com/uploads/tv_image/sm/teleacras.png",
+    "url": "http://live.smc-group.it:1935/teleacras/live/chunklist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Telecolor",
+    "image": "http://odmsto.com/uploads/tv_image/sm/telecolor.png",
+    "url": "https://5f22d76e220e1.streamlock.net/telecolor/telecolor/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Teleiblea",
+    "image": "http://odmsto.com/uploads/tv_image/sm/teleiblea.png",
+    "url": "https://tivusto.org/sh/teleiblea",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Telejato",
+    "image": "http://odmsto.com/uploads/tv_image/sm/telejato.png",
+    "url": "https://648026e87a75e.streamlock.net/telejato/telejato/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Telestar Siracusa (Offline)",
+    "image": "http://odmsto.com/uploads/tv_image/sm/telestar-siracusa.png",
+    "url": "https://media.streambrothers.com:19360/8534/8534.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Telesud3 Trapani",
+    "image": "http://odmsto.com/uploads/tv_image/sm/telesud3-trapani.png",
+    "url": "https://64b16f23efbee.streamlock.net/asdfgh/asdfgh/chunklist_w1777515764.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Televallo",
+    "image": "http://odmsto.com/uploads/tv_image/sm/televallo.jpg",
+    "url": "https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Video 66 Siracusa",
+    "image": "http://odmsto.com/uploads/tv_image/sm/video-66-siracusa.png",
+    "url": "https://tivusto.org/sh/video66sirac",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Video Mediterraneo",
+    "image": "http://odmsto.com/uploads/tv_image/sm/video-mediterraneo.png",
+    "url": "https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Video Regione Sicilia",
+    "image": "http://odmsto.com/uploads/tv_image/sm/video-regione-sicilia.jpg",
+    "url": "https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Video Star TV",
+    "image": "http://odmsto.com/uploads/tv_image/sm/video-star-tv.png",
+    "url": "https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "WLTV",
+    "image": "http://odmsto.com/uploads/tv_image/sm/wltv.png",
+    "url": "https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "YVII TV",
+    "image": "http://odmsto.com/uploads/tv_image/sm/yvii-tv.png",
+    "url": "http://80.211.72.5/hls/yviitv.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Zerouno TV",
+    "image": "http://odmsto.com/uploads/tv_image/sm/zerouno-tv.png",
+    "url": "https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Zerouno TV News",
+    "image": "http://odmsto.com/uploads/tv_image/sm/zerouno-tv-news.png",
+    "url": "https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  }
+]
