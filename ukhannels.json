@@ -2,7 +2,7 @@
   {
     "name": "ITV1",
     "image": "https://www.livehdtv.com/uploads/kanal/27829itv1%20logo.png",
-    "url": "https://www.livehdtv.com/embed/itv1/1/",
+    "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -11,7 +11,7 @@
   {
     "name": "ITV2",
     "image": "https://www.livehdtv.com/uploads/kanal/21089itv2%20logo.png",
-    "url": "https://www.livehdtv.com/embed/itv2/1/",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -20,7 +20,7 @@
   {
     "name": "ITV3",
     "image": "https://www.livehdtv.com/uploads/kanal/27476itv3%20logo.png",
-    "url": "https://www.livehdtv.com/embed/itv3/1/",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -29,7 +29,7 @@
   {
     "name": "ITV4",
     "image": "https://www.livehdtv.com/uploads/kanal/23825ITV4%20logo.png",
-    "url": "https://www.livehdtv.com/embed/itv4/1/",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -38,7 +38,7 @@
   {
     "name": "BBC News",
     "image": "https://www.livehdtv.com/uploads/kanal/21350BBC_News_2019.png",
-    "url": "https://www.livehdtv.com/embed/bbc-news/",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -74,7 +74,7 @@
   {
     "name": "4Seven",
     "image": "https://www.livehdtv.com/uploads/kanal/296884seven%20logo.png",
-    "url": "https://www.livehdtv.com/embed/4seven/",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
