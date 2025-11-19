@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ITV1",
+    "image": "https://www.livehdtv.com/uploads/kanal/27829itv1%20logo.png",
+    "url": "https://www.livehdtv.com/embed/itv1/1/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "ITV2",
+    "image": "https://www.livehdtv.com/uploads/kanal/21089itv2%20logo.png",
+    "url": "https://www.livehdtv.com/embed/itv2/1/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "ITV3",
+    "image": "https://www.livehdtv.com/uploads/kanal/27476itv3%20logo.png",
+    "url": "https://www.livehdtv.com/embed/itv3/1/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "ITV4",
+    "image": "https://www.livehdtv.com/uploads/kanal/23825ITV4%20logo.png",
+    "url": "https://www.livehdtv.com/embed/itv4/1/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+   {
+    "name": "BBC News",
+    "image": "https://www.livehdtv.com/uploads/kanal/21350BBC_News_2019.png",
+    "url": "https://www.livehdtv.com/embed/gb-news/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "GB News",
+    "image": "https://www.livehdtv.com/uploads/kanal/30985GB%20News.png",
+    "url": "https://www.livehdtv.com/embed/gb-news/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "BBC ONE",
+    "image": "https://www.livehdtv.com/uploads/kanal/27163bbc%20one%20logo.png",
+    "url": "https://www.livehdtv.com/embed/bbc-one/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+   {
+    "name": "Channel 4",
+    "image": "https://www.livehdtv.com/uploads/kanal/25591channel%204%20uk.png",
+    "url": "https://www.livehdtv.com/embed/channel-4-uk/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "4 Even",
+    "image": "https://www.livehdtv.com/uploads/kanal/296884seven%20logo.png",
+    "url": "https://www.livehdtv.com/embed/4seven/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  },
+  {
+    "name": "Channel 5",
+    "image": "https://www.livehdtv.com/uploads/kanal/20459Channel%205%20uk%20logo.png",
+    "url": "https://www.livehdtv.com/embed/channel-5-uk/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
+  }
+]
