@@ -35,10 +35,10 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-   {
+  {
     "name": "BBC News",
     "image": "https://www.livehdtv.com/uploads/kanal/21350BBC_News_2019.png",
-    "url": "https://www.livehdtv.com/embed/gb-news/",
+    "url": "https://www.livehdtv.com/embed/bbc-news/",
     "referer": "https://fnjplay.xyz/",
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
@@ -62,7 +62,7 @@
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
   },
-   {
+  {
     "name": "Channel 4",
     "image": "https://www.livehdtv.com/uploads/kanal/25591channel%204%20uk.png",
     "url": "https://www.livehdtv.com/embed/channel-4-uk/",
@@ -72,7 +72,7 @@
     "isHost": true
   },
   {
-    "name": "4 Even",
+    "name": "4Seven",
     "image": "https://www.livehdtv.com/uploads/kanal/296884seven%20logo.png",
     "url": "https://www.livehdtv.com/embed/4seven/",
     "referer": "https://fnjplay.xyz/",
