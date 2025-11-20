@@ -1,356 +1,260 @@
 {
-  "One Piece": {
-    "Stagione 1": [
-      {
-        "name": "EPISODIO 1 - Romance Dawn, l’alba di una grande avventura",
-        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
-        "server1": "https://mixdrop.si/e/rw189qxdhx47or",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "EPISODIO 2 - Il ragazzo dal cappello di paglia",
-        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
-        "server1": "https://mixdrop.si/e/wn34mejwhm9jrl",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "EPISODIO 3 -Non raccontare storie",
-        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
-        "server1": "https://mixdrop.si/e/7re7pdw9aojzo8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "EPISODIO 4 -Arrivano i pirati",
-        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
-        "server1": "https://mixdrop.si/e/zpn4zex1igmezod",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "EPISODIO 5 -Si mangia al baratie!",
-        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
-        "server1": "https://mixdrop.si/e/6qe096m3swol0",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "EPISODIO 6 -Lo chef e lo sguattero",
-        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
-        "server1": "https://mixdrop.si/e/pkwg9e83ignjxk4",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "EPISODIO 7 -La ragazza con il tatuaggio del pesce sega",
-        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
-        "server1": "https://mixdrop.si/e/gnr7klzxcqe13j",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "EPISODIO 8 -Il più cattivo del mare orientale",
-        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
-        "server1": "https://mixdrop.si/e/o7lm9eqoavv74m",
-        "server2": "",
-        "server3": ""
-      }
-    ]
-  },
-  "Wednesday": {
-    "Stagione 1": [
-      {
-        "name": "1×01 Mercoledì è un giorno triste",
-        "image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
-        "server1": "https://mixdrop.si/e/md0o8dnru9vmqd",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×02 Un triste isolamento",
-        "image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
-        "server1": "https://mixdrop.si/e/1vzlmv40ckxv7zl",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×03 Tristemente amici o nemici",
-        "image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
-        "server1": "https://mixdrop.si/e/n07op0xzalqzrzk",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×04 Una triste serata",
-        "image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
-        "server1": "https://mixdrop.si/e/1vzlmv4zbk80wx0",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×05 Chi sembra vento raccoglie tristezza",
-        "image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
-        "server1": "https://mixdrop.si/e/4n31rnmqtkqlmo",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×06 Un triste compleanno",
-        "image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
-        "server1": "https://mixdrop.si/e/1vzlmv4es7xrme",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×07 È triste che tu non mi conosca ancora",
-        "image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
-        "server1": "https://mixdrop.si/e/j9nep9zrtv08kq",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×08 Triste da morire",
-        "image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
-        "server1": "https://mixdrop.si/e/wng6dnm1c00x61w",
-        "server2": "",
-        "server3": ""
-      }
-    ],
-    "Stagione 2": [
-      {
-        "name": "2×01 Una tristezza senza fine",
-        "image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
-        "server1": "https://mixdrop.si/e/elenxk6kar640r",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×02 Meglio la tristezza che conosci",
-        "image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
-        "server1": "https://mixdrop.si/e/q16lmnvkanjnkn",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×03 Il richiamo della tristezza",
-        "image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
-        "server1": "https://mixdrop.si/e/elenxk6gtlr76v",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×04 Se la tristezza avesse voce",
-        "image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
-        "server1": "https://mixdrop.si/e/4d7nrnrmtogl07",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×05 Un triste nascondino",
-        "image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
-        "server1": "https://mixdrop.si/e/1n6lgglktmgr3l",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×06 La tristezza in te",
-        "image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
-        "server1": "https://mixdrop.si/e/gjoq44q9frzlk9",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×07 Soldi, tristi soldi",
-        "image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
-        "server1": "https://mixdrop.si/e/r6dogg8xapjp8g",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×08 Guerra, triste guerra",
-        "image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
-        "server1": "https://mixdrop.si/e/dke9446jioxp9p",
-        "server2": "",
-        "server3": ""
-      }
-    ]
-  },
-  "Reacher": {
-    "Stagione 1": [
-      {
-        "name": "1×01 Benvenuti a Margrave",
-        "image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
-        "server1": "https://mixdrop.si/e/qlj7m4zxudnvg1",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×02 Primo Ballo",
-        "image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
-        "server1": "https://mixdrop.si/e/vng1pwd0iokg13",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×03 Cucchiaio",
-        "image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
-        "server1": "https://mixdrop.si/e/6qewonj1cknge3",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×04 Su un Albero",
-        "image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
-        "server1": "https://mixdrop.si/e/pkw0prxdfj49ez",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×05 Niente Scuse",
-        "image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
-        "server1": "https://mixdrop.si/e/84e9opg9urzwzn",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×06 Carta",
-        "image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
-        "server1": "https://mixdrop.si/e/rw1vkeokh48r1v",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×07 Reacher non ha detto Niente",
-        "image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
-        "server1": "https://mixdrop.si/e/xo81gzd0uo1z4w",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "1×08 Torta",
-        "image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
-        "server1": "https://mixdrop.si/e/3neo4zjqtng60q",
-        "server2": "https://hfs325.serversicuro.cc/hls/dnzpafgk4dg4a3gyvdeh32rssseyskluemopboaz2q45lndanqenzmsnl5tq/index-v1-a1.m3u8",
-        "server3": ""
-      }
-    ],
-    "Stagione 2": [
-      {
-        "name": "2×01 ATM",
-        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
-        "server1": "https://hfs312.serversicuro.cc/hls/dnzpcfok4dg4a3gyvdeh3mzmtcz4icw4ln34qkdoclsijrinydeqwrhiyvyq/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×02 Cosa succede ad Atlantic City",
-        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
-        "server1": "https://hfs318.serversicuro.cc/hls/dnzpefwk4dg4a3gyvdeh3krgyr2it2e2erl3psi54ki5vkiyscobkrqkpliq/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×03 L’immagine dice mille parole",
-        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
-        "server1": "https://hfs321.serversicuro.cc/hls/dnzpef6k4dg4a3gyvdeh3nznydas62ai5ii5ii6rmfgpjwdl7clcgeteko2q/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×04 Una serata alla Sinfonia",
-        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
-        "server1": "https://hfs301.serversicuro.cc/hls/dnzpekgk4dg4a3gyvdeh3lrltbehcqztajeszptwb5w2dnweg2bchlt6geeq/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×05 Sepoltura",
-        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
-        "server1": "https://hfs310.serversicuro.cc/hls/dnzpckok4dg4a3gyvdeh3njirm6zaqtukvjasvpgegrj3to3s3fw5s5473ea/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×06 New York’s Finest",
-        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
-        "server1": "https://hfs308.serversicuro.cc/hls/dnzpakwk4dg4a3gyvdeh3ntryn4ya47n2cg2hmeavzvr7s5e4qoocog72lpq/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×07 L’uomo passa attraverso",
-        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
-        "server1": "https://hfs314.serversicuro.cc/hls/dnzpck6k4dg4a3gyvdeh32ratf7iasbsltjhnjpl5sxanpbrdq55nxbv3fkq/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "2×08 Vola ragazzo",
-        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
-        "server1": "https://hfs325.serversicuro.cc/hls/dnzpalgk4dg4a3gyvdeh3ojltujl3345t2e3ihfev5adhdtqgcqcgxsmuq4q/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      }
-    ],
-    "Stagione 3": [
-      {
-        "name": "3×01 La vittima designata",
-        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
-        "server1": "https://hfs309.serversicuro.cc/hls/dnzpelok4dg4a3gyvdeh3lrhq3zu3cfjhzfuempzaspe3hnir2ogmiygjcca/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "3×02 Trasporto",
-        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
-        "server1": "https://hfs324.serversicuro.cc/hls/dnzpelwk4dg4a3gyvdeh33rgy4pkejyzonj4hplujwsvdqgmm3tw4kvbpeya/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "3×03 Numero 2",
-        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
-        "server1": "https://hfs324.serversicuro.cc/hls/dnzpcl6k4dg4a3gyvdeh33jprpcxzvodh2mhpwjqajogbt6h5fbzpm7cynpq/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "3×04 Dominique",
-        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
-        "server1": "https://hfs301.serversicuro.cc/hls/dnzpeigk4dg4a3gyvdeh3kzjtcqagq4dycouh2s3dxvjvpfp4anawz4gziaa/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "3×05 Batosta",
-        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
-        "server1": "https://hfs312.serversicuro.cc/hls/dnzpeiok4dg4a3gyvdeh3olyqdwordhoeqftzvce4u6g2xnltohb6vd2tvba/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "3×06 Smoke on the Water",
-        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
-        "server1": "https://hfs317.serversicuro.cc/hls/dnzpmiwk4dg4a3gyvdeh3l3ythtb37jyguwubwz2t7z5n64zgnb4zyke5gza/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "3×07 Si va a Los Angeles",
-        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
-        "server1": "https://hfs316.serversicuro.cc/hls/dnzpci6k4dg4a3gyvdeh3ljhqznqor3keou5mk3truwywdfguew5ulhix5pq/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      },
-      {
-        "name": "3×08 Affari in sospeso",
-        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
-        "server1": "https://hfs308.serversicuro.cc/hls/dnzpejgk4dg4a3gyvdeh3njiqoldfiredhhmcpqezctubckxfxixoey2daga/index-v1-a1.m3u8",
-        "server2": "",
-        "server3": ""
-      }
-    ]
-  }
+"One Piece": {
+"Stagione 1": [
+{
+"name": "EPISODIO 1 - Romance Dawn, l’alba di una grande avventura",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
+"url": "https://mixdrop.si/e/rw189qxdhx47or"
+},
+{
+"name": "EPISODIO 2 - Il ragazzo dal cappello di paglia",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
+"url": "https://mixdrop.si/e/wn34mejwhm9jrl"
+},
+{
+"name": "EPISODIO 3 -Non raccontare storie",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
+"url": "https://mixdrop.si/e/7re7pdw9aojzo8"
+},
+{
+"name": "EPISODIO 4 -Arrivano i pirati",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
+"url": "https://mixdrop.si/e/zpn4zex1igmezod"
+},
+{
+"name": "EPISODIO 5 -Si mangia al baratie!",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
+"url": "https://mixdrop.si/e/6qe096m3swol0"
+},
+{
+"name": "EPISODIO 6 -Lo chef e lo sguattero",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
+"url": "https://mixdrop.si/e/pkwg9e83ignjxk4"
+},
+{
+"name": "EPISODIO 7 -La ragazza con il tatuaggio del pesce sega",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
+"url": "https://mixdrop.si/e/gnr7klzxcqe13j"
+},
+{
+"name": "EPISODIO 8 -Il più cattivo del mare orientale",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_720,h_900/http://www.gamesoul.it/wp-content/uploads/2023/01/one-piece-locandina.jpeg",
+"url": "https://mixdrop.si/e/o7lm9eqoavv74m"
+}
+]
+},
+"Wednesday": {
+"Stagione 1": [
+{
+"name": "1×01 Mercoledì è un giorno triste",
+"image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
+"url": "https://mixdrop.si/e/md0o8dnru9vmqd"
+},
+{
+"name": "1×02 Un triste isolamento",
+"image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
+"url": "https://mixdrop.si/e/1vzlmv40ckxv7zl"
+},
+{
+"name": "1×03 Tristemente amici o nemici",
+"image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
+"url": "https://mixdrop.si/e/n07op0xzalqzrzk"
+},
+{
+"name": "1×04 Una triste serata",
+"image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
+"url": "https://mixdrop.si/e/1vzlmv4zbk80wx0"
+},
+{
+"name": "1×05 Chi sembra vento raccoglie tristezza",
+"image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
+"url": "https://mixdrop.si/e/4n31rnmqtkqlmo"
+},
+{
+"name": "1×06 Un triste compleanno",
+"image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
+"url": "https://mixdrop.si/e/1vzlmv4es7xrme"
+},
+{
+"name": "1×07 È triste che tu non mi conosca ancora",
+"image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
+"url": "https://mixdrop.si/e/j9nep9zrtv08kq"
+},
+{
+"name": "1×08 Triste da morire",
+"image": "https://www.trebuonimotiviperleggere.it/wp-content/uploads/2022/12/wednesday.jpg",
+"url": "https://mixdrop.si/e/wng6dnm1c00x61w"
+}
+],
+"Stagione 2": [
+{
+"name": "2×01 Una tristezza senza fine",
+"image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
+"url": "https://mixdrop.si/e/elenxk6kar640r"
+},
+{
+"name": "2×02 Meglio la tristezza che conosci",
+"image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
+"url": "https://mixdrop.si/e/q16lmnvkanjnkn"
+},
+{
+"name": "2×03 Il richiamo della tristezza",
+"image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
+"url": "https://mixdrop.si/e/elenxk6gtlr76v"
+},
+{
+"name": "2×04 Se la tristezza avesse voce",
+"image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
+"url": "https://mixdrop.si/e/4d7nrnrmtogl07"
+},
+{
+"name": "2×05 Un triste nascondino",
+"image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
+"url": "https://mixdrop.si/e/1n6lgglktmgr3l"
+},
+{
+"name": "2×06 La tristezza in te",
+"image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
+"url": "https://mixdrop.si/e/gjoq44q9frzlk9"
+},
+{
+"name": "2×07 Soldi, tristi soldi",
+"image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
+"url": "https://mixdrop.si/e/r6dogg8xapjp8g"
+},
+{
+"name": "2×08 Guerra, triste guerra",
+"image": "https://store.sonymusic.it/cdn/shop/files/27276984_2007_Cover1500-mlib_1500x1500_300dpi_RGB_100Q.jpg?v=1761930371&width=1024.png",
+"url": "https://mixdrop.si/e/dke9446jioxp9p"
+}
+]
+},
+"Reacher": {
+"Stagione 1": [
+{
+"name": "1×01 Benvenuti a Margrave",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
+"url": "https://mixdrop.si/e/qlj7m4zxudnvg1"
+},
+{
+"name": "1×02 Primo Ballo",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
+"url": "https://mixdrop.si/e/vng1pwd0iokg13"
+},
+{
+"name": "1×03 Cucchiaio",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
+"url": "https://mixdrop.si/e/6qewonj1cknge3"
+},
+{
+"name": "1×04 Su un Albero",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
+"url": "https://mixdrop.si/e/pkw0prxdfj49ez"
+},
+{
+"name": "1×05 Niente Scuse",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
+"url": "https://mixdrop.si/e/84e9opg9urzwzn"
+},
+{
+"name": "1×06 Carta",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
+"url": "https://mixdrop.si/e/rw1vkeokh48r1v"
+},
+{
+"name": "1×07 Reacher non ha detto Niente",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
+"url": "https://mixdrop.si/e/xo81gzd0uo1z4w"
+},
+{
+"name": "1×08 Torta",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/9fa12c574ee4067adc660031fcef647fda388c96c9b312b1ea047f6236493449.jpg",
+"url": "https://hfs325.serversicuro.cc/hls/dnzpafgk4dg4a3gyvdeh32rssseyskluemopboaz2q45lndanqenzmsnl5tq/index-v1-a1.m3u8"
+}
+],
+"Stagione 2": [
+{
+"name": "2×01 ATM",
+"image": "https://m.media-amazon.com/images/I/81S794xQMXL.AC_UF894,1000_QL80.jpg",
+"url": "https://hfs312.serversicuro.cc/hls/dnzpcfok4dg4a3gyvdeh3mzmtcz4icw4ln34qkdoclsijrinydeqwrhiyvyq/index-v1-a1.m3u8"
+},
+{
+"name": "2×02 Cosa succede ad Atlantic City",
+"image": "https://m.media-amazon.com/images/I/81S794xQMXL.AC_UF894,1000_QL80.jpg",
+"url": "https://hfs318.serversicuro.cc/hls/dnzpefwk4dg4a3gyvdeh3krgyr2it2e2erl3psi54ki5vkiyscobkrqkpliq/index-v1-a1.m3u8"
+},
+{
+"name": "2×03 L’immagine dice mille parole",
+"image": "https://m.media-amazon.com/images/I/81S794xQMXL.AC_UF894,1000_QL80.jpg",
+"url": "https://hfs321.serversicuro.cc/hls/dnzpef6k4dg4a3gyvdeh3nznydas62ai5ii5ii6rmfgpjwdl7clcgeteko2q/index-v1-a1.m3u8"
+},
+{
+"name": "2×04 Una serata alla Sinfonia",
+"image": "https://m.media-amazon.com/images/I/81S794xQMXL.AC_UF894,1000_QL80.jpg",
+"url": "https://hfs301.serversicuro.cc/hls/dnzpekgk4dg4a3gyvdeh3lrltbehcqztajeszptwb5w2dnweg2bchlt6geeq/index-v1-a1.m3u8"
+},
+{
+"name": "2×05 Sepoltura",
+"image": "https://m.media-amazon.com/images/I/81S794xQMXL.AC_UF894,1000_QL80.jpg",
+"url": "https://hfs310.serversicuro.cc/hls/dnzpckok4dg4a3gyvdeh3njirm6zaqtukvjasvpgegrj3to3s3fw5s5473ea/index-v1-a1.m3u8"
+},
+{
+"name": "2×06 New York’s Finest",
+"image": "https://m.media-amazon.com/images/I/81S794xQMXL.AC_UF894,1000_QL80.jpg",
+"url": "https://hfs308.serversicuro.cc/hls/dnzpakwk4dg4a3gyvdeh3ntryn4ya47n2cg2hmeavzvr7s5e4qoocog72lpq/index-v1-a1.m3u8"
+},
+{
+"name": "2×07 L’uomo passa attraverso",
+"image": "https://m.media-amazon.com/images/I/81S794xQMXL.AC_UF894,1000_QL80.jpg",
+"url": "https://hfs314.serversicuro.cc/hls/dnzpck6k4dg4a3gyvdeh32ratf7iasbsltjhnjpl5sxanpbrdq55nxbv3fkq/index-v1-a1.m3u8"
+},
+{
+"name": "2×08 Vola ragazzo",
+"image": "https://m.media-amazon.com/images/I/81S794xQMXL.AC_UF894,1000_QL80.jpg",
+"url": "https://hfs325.serversicuro.cc/hls/dnzpalgk4dg4a3gyvdeh3ojltujl3345t2e3ihfev5adhdtqgcqcgxsmuq4q/index-v1-a1.m3u8"
+}
+],
+"Stagione 3": [
+{
+"name": "3×01 La vittima designata",
+"image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+"url": "https://hfs309.serversicuro.cc/hls/dnzpelok4dg4a3gyvdeh3lrhq3zu3cfjhzfuempzaspe3hnir2ogmiygjcca/index-v1-a1.m3u8"
+},
+{
+"name": "3×02 Trasporto",
+"image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+"url": "https://hfs324.serversicuro.cc/hls/dnzpelwk4dg4a3gyvdeh33rgy4pkejyzonj4hplujwsvdqgmm3tw4kvbpeya/index-v1-a1.m3u8"
+},
+{
+"name": "3×03 Numero 2",
+"image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+"url": "https://hfs324.serversicuro.cc/hls/dnzpcl6k4dg4a3gyvdeh33jprpcxzvodh2mhpwjqajogbt6h5fbzpm7cynpq/index-v1-a1.m3u8"
+},
+{
+"name": "3×04 Dominique",
+"image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+"url": "https://hfs301.serversicuro.cc/hls/dnzpeigk4dg4a3gyvdeh3kzjtcqagq4dycouh2s3dxvjvpfp4anawz4gziaa/index-v1-a1.m3u8"
+},
+{
+"name": "3×05 Batosta",
+"image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+"url": "https://hfs312.serversicuro.cc/hls/dnzpeiok4dg4a3gyvdeh3olyqdwordhoeqftzvce4u6g2xnltohb6vd2tvba/index-v1-a1.m3u8"
+},
+{
+"name": "3×06 Smoke on the Water",
+"image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+"url": "https://hfs317.serversicuro.cc/hls/dnzpmiwk4dg4a3gyvdeh3l3ythtb37jyguwubwz2t7z5n64zgnb4zyke5gza/index-v1-a1.m3u8"
+},
+{
+"name": "3×07 Si va a Los Angeles",
+"image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+"url": "https://hfs316.serversicuro.cc/hls/dnzpci6k4dg4a3gyvdeh3ljhqznqor3keou5mk3truwywdfguew5ulhix5pq/index-v1-a1.m3u8"
+},
+{
+"name": "3×08 Affari in sospeso",
+"image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+"url": "https://hfs308.serversicuro.cc/hls/dnzpejgk4dg4a3gyvdeh3njiqoldfiredhhmcpqezctubckxfxixoey2daga/index-v1-a1.m3u8"
+}
+]
+}
 }
