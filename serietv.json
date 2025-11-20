@@ -250,6 +250,106 @@
         "server1": "https://hfs318.serversicuro.cc/hls/dnzpefwk4dg4a3gyvdeh3krgyr2it2e2erl3psi54ki5vkiyscobkrqkpliq/index-v1-a1.m3u8",
         "server2": "",
         "server3": ""
+      },
+      {
+        "name": "2×03 L’immagine dice mille parole",
+        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
+        "server1": "https://hfs321.serversicuro.cc/hls/dnzpef6k4dg4a3gyvdeh3nznydas62ai5ii5ii6rmfgpjwdl7clcgeteko2q/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "2×04 Una serata alla Sinfonia",
+        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
+        "server1": "https://hfs301.serversicuro.cc/hls/dnzpekgk4dg4a3gyvdeh3lrltbehcqztajeszptwb5w2dnweg2bchlt6geeq/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "2×05 Sepoltura",
+        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
+        "server1": "https://hfs310.serversicuro.cc/hls/dnzpckok4dg4a3gyvdeh3njirm6zaqtukvjasvpgegrj3to3s3fw5s5473ea/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "2×06 New York’s Finest",
+        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
+        "server1": "https://hfs308.serversicuro.cc/hls/dnzpakwk4dg4a3gyvdeh3ntryn4ya47n2cg2hmeavzvr7s5e4qoocog72lpq/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "2×07 L’uomo passa attraverso",
+        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
+        "server1": "https://hfs314.serversicuro.cc/hls/dnzpck6k4dg4a3gyvdeh32ratf7iasbsltjhnjpl5sxanpbrdq55nxbv3fkq/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "2×08 Vola ragazzo",
+        "image": "https://m.media-amazon.com/images/I/81S794xQMXL._AC_UF894,1000_QL80_.jpg",
+        "server1": "https://hfs325.serversicuro.cc/hls/dnzpalgk4dg4a3gyvdeh3ojltujl3345t2e3ihfev5adhdtqgcqcgxsmuq4q/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      }
+    ],
+    "Stagione 3": [
+      {
+        "name": "3×01 La vittima designata",
+        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+        "server1": "https://hfs309.serversicuro.cc/hls/dnzpelok4dg4a3gyvdeh3lrhq3zu3cfjhzfuempzaspe3hnir2ogmiygjcca/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "3×02 Trasporto",
+        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+        "server1": "https://hfs324.serversicuro.cc/hls/dnzpelwk4dg4a3gyvdeh33rgy4pkejyzonj4hplujwsvdqgmm3tw4kvbpeya/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "3×03 Numero 2",
+        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+        "server1": "https://hfs324.serversicuro.cc/hls/dnzpcl6k4dg4a3gyvdeh33jprpcxzvodh2mhpwjqajogbt6h5fbzpm7cynpq/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "3×04 Dominique",
+        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+        "server1": "https://hfs301.serversicuro.cc/hls/dnzpeigk4dg4a3gyvdeh3kzjtcqagq4dycouh2s3dxvjvpfp4anawz4gziaa/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "3×05 Batosta",
+        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+        "server1": "https://hfs312.serversicuro.cc/hls/dnzpeiok4dg4a3gyvdeh3olyqdwordhoeqftzvce4u6g2xnltohb6vd2tvba/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "3×06 Smoke on the Water",
+        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+        "server1": "https://hfs317.serversicuro.cc/hls/dnzpmiwk4dg4a3gyvdeh3l3ythtb37jyguwubwz2t7z5n64zgnb4zyke5gza/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "3×07 Si va a Los Angeles",
+        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+        "server1": "https://hfs316.serversicuro.cc/hls/dnzpci6k4dg4a3gyvdeh3ljhqznqor3keou5mk3truwywdfguew5ulhix5pq/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
+      },
+      {
+        "name": "3×08 Affari in sospeso",
+        "image": "https://xtracult.it/wp-content/uploads/2025/01/RCHR_S3_Static2x3_Seaside_2000x3000_PRE_PV_FINAL_it-IT_KAPS-682x1024.jpeg",
+        "server1": "https://hfs308.serversicuro.cc/hls/dnzpejgk4dg4a3gyvdeh3njiqoldfiredhhmcpqezctubckxfxixoey2daga/index-v1-a1.m3u8",
+        "server2": "",
+        "server3": ""
       }
     ]
   }
