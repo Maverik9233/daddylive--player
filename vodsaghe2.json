@@ -1,5 +1,5 @@
 {
-  "HarryPotter Film": {
+  "Harry Potter": {
     "Saga": [
       { "name": "Harry Potter e la Pietra Filosofale (2001)", "image": "https://www.warnerbros.it/sites/default/files/HP1_MOVIE_V_DD_KA_TT_1400x2100_300dpi_IT.jpg", "url": "https://supervideo.cc/e/8vso5cbyu3ns" },
       { "name": "Harry Potter e la Camera dei Segreti (2002)", "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/1047.jpg", "url": "https://supervideo.cc/e/jpz3w0g1fqw1" },
@@ -14,7 +14,7 @@
     ]
   },
 
-  "IlSignoreDegliAnelli Film": {
+  "Il Signore Degli Anelli": {
     "Saga": [
       { "name": "Il Signore degli Anelli – La Compagnia dell’Anello (2001)", "image": "https://th.bing.com/th/id/OIP.LXSlU1VJSvvuPd-1Uo4dzAHaLH?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3", "url": "https://supervideo.cc/e/r9z6frs78b7d" },
       { "name": "Il Signore degli Anelli – Le Due Torri (2002)", "image": "https://th.bing.com/th/id/OIP.sWcFlknRyDGvYc-hMAhCEwHaJ4?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3", "url": "https://supervideo.cc/e/iol95273kruu" },
@@ -22,7 +22,7 @@
     ]
   },
 
-  "Avengers Film": {
+  "Avengers": {
     "Saga": [
       { "name": "The Avengers (2012)", "image": "https://tse1.mm.bing.net/th/id/OIP.JWgJIhFaBe2hoQ27EnmuAgHaK9?rs=1&pid=ImgDetMain&o=7&rm=3", "url": "https://supervideo.cc/e/rq34cv861qit" },
       { "name": "Avengers: Age of Ultron (2015)", "image": "https://pad.mymovies.it/filmclub/2012/08/035/locandina.jpg", "url": "https://supervideo.cc/e/g1cbtz8r3204" },
@@ -31,7 +31,7 @@
     ]
   },
 
-  "GuardianiDellaGalassia Film": {
+  "Guardiani Della Galassia": {
     "Saga": [
       { "name": "Guardiani della Galassia (2014)", "image": "https://pad.mymovies.it/filmclub/2012/07/018/locandina.jpg", "url": "https://supervideo.cc/e/f2zig4xnd9ku" },
       { "name": "Guardiani della Galassia Vol. 2 (2017)", "image": "https://pad.mymovies.it/filmclub/2012/07/018/locandinapg2.jpg", "url": "https://supervideo.cc/e/0woak811m2jv" },
@@ -39,14 +39,14 @@
     ]
   },
 
-  "IT Film": {
+  "IT": {
     "Saga": [
       { "name": "IT (2017)", "image": "https://th.bing.com/th/id/OIP.pOeP_sMdkEqJcZDc9jU8GwAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3", "url": "https://supervideo.cc/e/aj83cgtd2b8i" },
       { "name": "IT – Capitolo Due (2019)", "image": "https://pad.mymovies.it/filmclub/2018/07/018/locandina.jpg", "url": "https://supervideo.cc/e/wrfsvry0kxp4" }
     ]
   },
 
-  "Thor Film": {
+  "Thor": {
     "Saga": [
       { "name": "Thor (2011)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2017-10/1509015704-thor.jpg", "url": "https://supervideo.cc/e/zqedi4f5vf07" },
       { "name": "Thor: The Dark World (2013)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2017-10/1509017516-thor-the-dark-world.jpg", "url": "https://supervideo.cc/e/to553kox16lf" },
