@@ -233,7 +233,7 @@
 }
 ]
 },
-"Transformers Film": {
+"Transformers": {
 "Saga": [
 {
 "name": "Transformers – Due razze aliene (2007)",
@@ -271,7 +271,22 @@
 "url": "https://supervideo.cc/e/715wll4j52n9"
 }
 ]
+},
+"Hulk": {
+"Saga": [
+{
+"name": "Hulk (2003)",
+"image": "https://m.media-amazon.com/images/M/MV5BNTQxMmVlMTItMGFjYi00MTc2LWE5MzMtYjFhZWJmZGY0MTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+"url": "https://supervideo.cc/e/2lhynt25f0ef"
+},
+{
+"name": "L'Incredibile Hulk (2008)",
+"image": "https://www.themoviedb.org/t/p/original/2t28k8LvS2mkhoDUHEdGNpmWu2N.jpg",
+"url": "https://supervideo.cc/e/kygfelz6fo95"
 }
+]
+}
+
 
   
 }
