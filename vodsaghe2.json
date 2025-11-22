@@ -41,25 +41,25 @@
 
   "IT Film": {
     "Saga": [
-      { "name": "IT (2017)", "image": "", "url": "" },
-      { "name": "IT – Capitolo Due (2019)", "image": "", "url": "" }
+      { "name": "IT (2017)", "image": "https://th.bing.com/th/id/OIP.pOeP_sMdkEqJcZDc9jU8GwAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3", "url": "https://supervideo.cc/e/aj83cgtd2b8i" },
+      { "name": "IT – Capitolo Due (2019)", "image": "https://pad.mymovies.it/filmclub/2018/07/018/locandina.jpg", "url": "https://supervideo.cc/e/wrfsvry0kxp4" }
     ]
   },
 
   "Thor Film": {
     "Saga": [
-      { "name": "Thor (2011)", "image": "", "url": "" },
-      { "name": "Thor: The Dark World (2013)", "image": "", "url": "" },
-      { "name": "Thor: Ragnarok (2017)", "image": "", "url": "" },
-      { "name": "Thor: Love and Thunder (2022)", "image": "", "url": "" }
+      { "name": "Thor (2011)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2017-10/1509015704-thor.jpg", "url": "https://supervideo.cc/e/zqedi4f5vf07" },
+      { "name": "Thor: The Dark World (2013)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2017-10/1509017516-thor-the-dark-world.jpg", "url": "https://supervideo.cc/e/to553kox16lf" },
+      { "name": "Thor: Ragnarok (2017)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2017-10/1508956564-thor-ragnarok.jpg", "url": "https://supervideo.cc/e/muxpiqekq7ov" },
+      { "name": "Thor: Love and Thunder (2022)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2021-09/1631979914-333609141.jpg", "url": "https://supervideo.cc/e/wo0sh3nbt2of" }
     ]
   },
 
   "CaptainAmerica Film": {
     "Saga": [
-      { "name": "Captain America – Il primo Vendicatore (2011)", "image": "", "url": "" },
-      { "name": "Captain America: The Winter Soldier (2014)", "image": "", "url": "" },
-      { "name": "Captain America: Civil War (2016)", "image": "", "url": "" }
+      { "name": "Captain America – Il primo Vendicatore (2011)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2017-12/1513103079-captain-america-il-primo-vendicatore.jpg", "url": "https://supervideo.cc/e/pvlwno0pvav0" },
+      { "name": "Captain America: The Winter Soldier (2014)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2017-12/1513102934-captain-america-the-winter-soldier.jpg", "url": "https://supervideo.cc/e/u36ygf1hs434" },
+      { "name": "Captain America: Civil War (2016)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2017-10/1507025893-captain-america-civil-war.jpg", "url": "https://supervideo.cc/e/6w43yyuft7rw" }
     ]
   }
 }
