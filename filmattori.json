@@ -1,1 +1,179 @@
+{
+  "BudSpencer_TerenceHill": {
+    "Saga": [
+      { "name": "Lo chiamavano Trinità... (1970)", "image": "", "url": "" },
+      { "name": "...continuavano a chiamarlo Trinità (1971)", "image": "", "url": "" },
+      { "name": "Più forte ragazzi! (1972)", "image": "", "url": "" },
+      { "name": "...altrimenti ci arrabbiamo! (1974)", "image": "", "url": "" },
+      { "name": "Porgi l'altra guancia (1974)", "image": "", "url": "" },
+      { "name": "I due superpiedi quasi piatti (1977)", "image": "", "url": "" },
+      { "name": "Pari e dispari (1978)", "image": "", "url": "" },
+      { "name": "Io sto con gli ippopotami (1979)", "image": "", "url": "" },
+      { "name": "Chi trova un amico trova un tesoro (1981)", "image": "", "url": "" },
+      { "name": "Nati con la camicia (1983)", "image": "", "url": "" },
+      { "name": "Non c'è due senza quattro (1984)", "image": "", "url": "" },
+      { "name": "Miami Supercops (1985)", "image": "", "url": "" }
+    ]
+  },
 
+  "BudSpencer Solo": {
+    "Saga": [
+      { "name": "Zanna Bianca (1973)", "image": "", "url": "" },
+      { "name": "Piedone lo sbirro (1973)", "image": "", "url": "" },
+      { "name": "Piedone a Hong Kong (1975)", "image": "", "url": "" },
+      { "name": "Piedone l'africano (1978)", "image": "", "url": "" },
+      { "name": "Piedone d'Egitto (1980)", "image": "", "url": "" },
+      { "name": "Lo chiamavano Bulldozer (1978)", "image": "", "url": "" },
+      { "name": "Il soldato di ventura (1976)", "image": "", "url": "" },
+      { "name": "Banana Joe (1982)", "image": "", "url": "" },
+      { "name": "Bomber (1982)", "image": "", "url": "" },
+      { "name": "Superfantozzi (1986)", "image": "", "url": "" },
+      { "name": "Big Man – vari film (1988-1989)", "image": "", "url": "" }
+    ]
+  },
+
+  "TerenceHill Solo": {
+    "Saga": [
+      { "name": "Django (1966)", "image": "", "url": "" },
+      { "name": "Preparati la bara! (1968)", "image": "", "url": "" },
+      { "name": "La collina degli stivali (1969)", "image": "", "url": "" },
+      { "name": "Don Camillo (1983)", "image": "", "url": "" },
+      { "name": "Renegade - Un osso troppo duro (1987)", "image": "", "url": "" },
+      { "name": "Lucky Luke (1991)", "image": "", "url": "" },
+      { "name": "Il mio nome è Thomas (2018)", "image": "", "url": "" }
+    ]
+  },
+
+  "JasonStatham": {
+    "Saga": [
+            { "name": "Lock & Stock - Pazzi scatenati (1998)", "image": "", "url": "" },
+      { "name": "Snatch - Lo strappo (2000)", "image": "", "url": "" },
+      { "name": "Two Ways: The Transporter (cameo prec.)", "image": "", "url": "" },
+      { "name": "The Transporter (2002)", "image": "", "url": "" },
+      { "name": "The Transporter 2 (2005)", "image": "", "url": "" },
+      { "name": "The Transporter 3 (2008)", "image": "", "url": "" },
+      { "name": "Revolver (2005)", "image": "", "url": "" },
+      { "name": "Crank (2006)", "image": "", "url": "" },
+      { "name": "Crank: High Voltage (2009)", "image": "", "url": "" },
+      { "name": "Death Race (2008)", "image": "", "url": "" },
+      { "name": "War (2007) (alias)", "image": "", "url": "" },
+      { "name": "Killer Elite (2011)", "image": "", "url": "" },
+      { "name": "The Mechanic (2011)", "image": "", "url": "" },
+      { "name": "Safe (2012)", "image": "", "url": "" },
+      { "name": "Parker (2013)", "image": "", "url": "" },
+      { "name": "Homefront (2013)", "image": "", "url": "" },
+      { "name": "The Expendables 3 (cameo non principale)", "image": "", "url": "" },
+      { "name": "Fast & Furious 6 (cameo 2013)", "image": "", "url": "" },
+      { "name": "Furious 7 (2015) (cameo)", "image": "", "url": "" },
+      { "name": "Wild Card (2015)", "image": "", "url": "" },
+      { "name": "Mechanic: Resurrection (2016)", "image": "", "url": "" },
+      { "name": "The Fate of the Furious (2017) (Hobbs & Shaw connected)", "image": "", "url": "" },
+      { "name": "The Meg (2018)", "image": "", "url": "" },
+      { "name": "Hobbs & Shaw (2019)", "image": "", "url": "" },
+      { "name": "Wrath of Man (2021)", "image": "", "url": "" },
+      { "name": "Cash Truck (titolo alternativo Wrath of Man)", "image": "", "url": "" },
+      { "name": "Operation Fortune: Ruse de Guerre (2023)", "image": "", "url": "" },
+      { "name": "The Beekeeper (2024)", "image": "", "url": "" }
+    ]
+  },
+
+  "BruceLee": {
+    "Saga": [
+      { "name": "Il furore della Cina colpisce ancora (1971)", "image": "", "url": "" },
+      { "name": "Dalla Cina con furore (1972)", "image": "", "url": "" },
+      { "name": "L'urlo di Chen terrorizza anche l'Occidente (1972)", "image": "", "url": "" },
+      { "name": "I tre dell'Operazione Drago (1973)", "image": "", "url": "" },
+      { "name": "L’ultimo combattimento di Chen (1978)", "image": "", "url": "" }
+    ]
+  },
+
+  "Van Damme": {
+    "Saga": [
+       { "name": "Senza esclusione di colpi (Bloodsport, 1988)", "image": "", "url": "" },
+      { "name": "Kickboxer - Il nuovo guerriero (1989)", "image": "", "url": "" },
+      { "name": "Lionheart - Scommessa vincente (1990)", "image": "", "url": "" },
+      { "name": "Doppio impatto (1991)", "image": "", "url": "" },
+      { "name": "Universal Soldier (1992)", "image": "", "url": "" },
+      { "name": "Nowhere to Run (1993)", "image": "", "url": "" },
+      { "name": "Hard Target (1993)", "image": "", "url": "" },
+      { "name": "Timecop - Indagine dal futuro (1994)", "image": "", "url": "" },
+      { "name": "Street Fighter (1994)", "image": "", "url": "" },
+      { "name": "Sudden Death (1995)", "image": "", "url": "" },
+      { "name": "Double Team (1997)", "image": "", "url": "" },
+      { "name": "The Quest (1996)", "image": "", "url": "" },
+      { "name": "JCVD (2008)", "image": "", "url": "" },
+      { "name": "Universal Soldier: Regeneration (2009)", "image": "", "url": "" },
+      { "name": "Universal Soldier: Day of Reckoning (2012)", "image": "", "url": "" }
+    ]
+  },
+  "Steven Seagal": {
+    "Saga": [
+      { "name": "Nico - Above the Law (1988)", "image": "", "url": "" },
+      { "name": "Programma di protezione testimoni - Out for Justice (1991)", "image": "", "url": "" },
+      { "name": "Marked for Death (1990)", "image": "", "url": "" },
+      { "name": "Trappola in alto mare - Under Siege (1992)", "image": "", "url": "" },
+      { "name": "Trappola sulle montagne rocciose (1995)", "image": "", "url": "" },
+      { "name": "Decisione critica (1996)", "image": "", "url": "" },
+      { "name": "Exit Wounds (2001)", "image": "", "url": "" },
+      { "name": "Out for a Kill (2003)", "image": "", "url": "" },
+      { "name": "Belly of the Beast (2003)", "image": "", "url": "" },
+      { "name": "Submerged - Agguato negli abissi (2005)", "image": "", "url": "" },
+      { "name": "Pistolero - Kill Switch (2008)", "image": "", "url": "" }
+    ]
+  },
+
+  "Sylvester Stallone": {
+    "Saga": [
+     { "name": "Rocky (1976)", "image": "", "url": "" },
+      { "name": "Rocky II (1979)", "image": "", "url": "" },
+      { "name": "Rocky III - Rocky III (1982)", "image": "", "url": "" },
+      { "name": "Rocky IV (1985)", "image": "", "url": "" },
+      { "name": "Rocky V (1990)", "image": "", "url": "" },
+      { "name": "Rocky Balboa (2006)", "image": "", "url": "" },
+      { "name": "Creed (2015) (produttore/ruolo)", "image": "", "url": "" },
+      { "name": "Creed II (2018) (ruolo)", "image": "", "url": "" },
+      { "name": "Rambo (1982)", "image": "", "url": "" },
+      { "name": "Lo Specialista (1994)", "image": "", "url": "" },
+      { "name": "Rambo: First Blood Part II (1985)", "image": "", "url": "" },
+      { "name": "Rambo III (1988)", "image": "", "url": "" },
+      { "name": "Rambo (2008)", "image": "", "url": "" },
+      { "name": "Rambo: Last Blood (2019)", "image": "", "url": "" },
+      { "name": "Cobra (1986)", "image": "", "url": "" },
+      { "name": "Cliffhanger (1993)", "image": "", "url": "" },
+      { "name": "Demolition Man (1993)", "image": "", "url": "" },
+      { "name": "Tango & Cash (1989)", "image": "", "url": "" },
+      { "name": "The Expendables (2010)", "image": "", "url": "" },
+      { "name": "The Expendables 2 (2012)", "image": "", "url": "" },
+      { "name": "The Expendables 3 (2014)", "image": "", "url": "" },
+      { "name": "Bullet to the Head (2012)", "image": "", "url": "" },
+      { "name": "Driven (2001)", "image": "", "url": "" }
+    ]
+  },
+
+  "Arnold Schwarzenegger": {
+    "Saga": [
+      { "name": "Conan il barbaro (1982)", "image": "", "url": "" },
+      { "name": "Conan il distruttore (1984)", "image": "", "url": "" },
+      { "name": "Terminator (1984)", "image": "", "url": "" },
+      { "name": "Red Heat (Caldo Rosso) (1988)", "image": "", "url": "" },
+      { "name": "The Running Man (1990)", "image": "", "url": "" },
+      { "name": "Terminator 2 - Il giorno del giudizio (1991)", "image": "", "url": "" },
+      { "name": "Ultimatum (Last Action Hero) (1993)", "image": "", "url": "" },
+      { "name": "True Lies (1994)", "image": "", "url": "" },
+      { "name": "Junior (1994)", "image": "", "url": "" },
+      { "name": "Twins (1988)", "image": "", "url": "" },
+      { "name": "Il fuggitivo (1993) (non protagonista principale)", "image": "", "url": "" },
+      { "name": "Eraser (1996)", "image": "", "url": "" },
+      { "name": "Batman & Robin (1997) (cameo/ruolo minore)", "image": "", "url": "" },
+      { "name": "Il sesto giorno (2000)", "image": "", "url": "" },
+      { "name": "Collateral Damage (2002)", "image": "", "url": "" },
+      { "name": "Terminator 3 (cameo non principale)", "image": "", "url": "" },
+      { "name": "The Last Stand (2013)", "image": "", "url": "" },
+      { "name": "Escape Plan (2013)", "image": "", "url": "" },
+      { "name": "Maggie (2015)", "image": "", "url": "" },
+      { "name": "Terminator Genisys (2015)", "image": "", "url": "" },
+      { "name": "Terminator: Dark Fate (2019)", "image": "", "url": "" }
+    ]
+  }
+}
+}
