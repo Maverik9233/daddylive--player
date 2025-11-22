@@ -1,0 +1,109 @@
+{
+  "MissionImpossible": {
+    "Saga": [
+      { "name": "Mission: Impossible (1996)", "image": "", "url": "" },
+      { "name": "Mission: Impossible 2 (2000)", "image": "", "url": "" },
+      { "name": "Mission: Impossible 3 (2006)", "image": "", "url": "" },
+      { "name": "Mission: Impossible - Protocollo Fantasma (2011)", "image": "", "url": "" },
+      { "name": "Mission: Impossible - Rogue Nation (2015)", "image": "", "url": "" },
+      { "name": "Mission: Impossible - Fallout (2018)", "image": "", "url": "" },
+      { "name": "Mission: Impossible - Dead Reckoning Parte Uno (2023)", "image": "", "url": "" },
+      { "name": "Mission: Impossible - Dead Reckoning Parte Due (2025)", "image": "", "url": "" }
+    ]
+  },
+
+  "Alien": {
+    "Saga": [
+      { "name": "Alien (1979)", "image": "", "url": "" },
+      { "name": "Aliens - Scontro finale (1986)", "image": "", "url": "" },
+      { "name": "Alien 3 (1992)", "image": "", "url": "" },
+      { "name": "Alien: La clonazione (1997)", "image": "", "url": "" },
+      { "name": "Alien vs. Predator (2004)", "image": "", "url": "" },
+      { "name": "Alien vs. Predator - La resa dei conti (AVP: Requiem) (2007)", "image": "", "url": "" },
+      { "name": "Prometheus (2012)", "image": "", "url": "" },
+      { "name": "Alien: Covenant (2017)", "image": "", "url": "" },
+      { "name": "Alien: Romulus (2024)", "image": "", "url": "" }
+    ]
+  },
+
+  "IndianaJones": {
+    "Saga": [
+      { "name": "I predatori dell'arca perduta (1981)", "image": "", "url": "" },
+      { "name": "Indiana Jones e il tempio maledetto (1984)", "image": "", "url": "" },
+      { "name": "Indiana Jones e l'ultima crociata (1989)", "image": "", "url": "" },
+      { "name": "Indiana Jones e il regno del teschio di cristallo (2008)", "image": "", "url": "" },
+      { "name": "Indiana Jones e il quadrante del destino (2023)", "image": "", "url": "" }
+    ]
+  },
+
+  "FilmCatastrofici": {
+    "Saga": [
+      { "name": "The Day After Tomorrow - L'alba del giorno dopo (2004)", "image": "", "url": "" },
+      { "name": "2012 (2009)", "image": "", "url": "" },
+      { "name": "La guerra dei mondi (War of the Worlds) (2005)", "image": "", "url": "" },
+      { "name": "San Andreas (2015)", "image": "", "url": "" },
+      { "name": "Geostorm (2017)", "image": "", "url": "" },
+      { "name": "Greenland (2020)", "image": "", "url": "" },
+      { "name": "Moonfall (2022)", "image": "", "url": "" },
+      { "name": "Don't Look Up (Non guardare in alto) (2021)", "image": "", "url": "" },
+      { "name": "The Road (2009) (drammatico post-apocalittico)", "image": "", "url": "" },
+      { "name": "I Am Legend - Io sono leggenda (2007)", "image": "", "url": "" },
+      { "name": "La quinta onda (The 5th Wave) (2016)", "image": "", "url": "" },
+      { "name": "Geostorm (2017)", "image": "", "url": "" },
+      { "name": "The Colony (2013) (post-apocalittico)", "image": "", "url": "" }
+    ]
+  },
+
+  "CheccoZalone": {
+    "Saga": [
+      { "name": "Cado dalle nubi (2009)", "image": "", "url": "" },
+      { "name": "Che bella giornata (2011)", "image": "", "url": "" },
+      { "name": "Sole a catinelle (2013)", "image": "", "url": "" },
+      { "name": "Quo Vado? (2016)", "image": "", "url": "" },
+      { "name": "Tolo Tolo (2020)", "image": "", "url": "" }
+    ]
+  },
+
+  "RenatoPozzetto": {
+    "Saga": [
+      { "name": "Il ragazzo di campagna (1984)", "image": "", "url": "" },
+      { "name": "Saxofone (1978)", "image": "", "url": "" },
+      { "name": "L'allenatore nel pallone (1984) (cameo non principale)", "image": "", "url": "" },
+      { "name": "Tempo di villeggiatura (1980)", "image": "", "url": "" },
+      { "name": "Per amare Ofelia (1974)", "image": "", "url": "" },
+      { "name": "La patata bollente (1979)", "image": "", "url": "" },
+      { "name": "Io e lui (1973)", "image": "", "url": "" },
+      { "name": "Nonostante tutto... (1978)", "image": "", "url": "" }
+    ]
+  },
+
+  "Fantozzi": {
+    "Saga": [
+      { "name": "Fantozzi (1975)", "image": "", "url": "" },
+      { "name": "Il secondo tragico Fantozzi (1976)", "image": "", "url": "" },
+      { "name": "Fantozzi contro tutti (1980)", "image": "", "url": "" },
+      { "name": "Fantozzi subisce ancora (1983)", "image": "", "url": "" },
+      { "name": "Fantozzi va in pensione (1988)", "image": "", "url": "" },
+      { "name": "Fantozzi alla riscossa (1990)", "image": "", "url": "" },
+      { "name": "Fantozzi in paradiso (1993)", "image": "", "url": "" },
+      { "name": "Fantozzi - Il ritorno (1996)", "image": "", "url": "" }
+    ]
+  },
+
+  "Boldi_DeSica": {
+    "Saga": [
+      { "name": "Vacanze di Natale a Cortina (1980) (precursore)", "image": "", "url": "" },
+      { "name": "Body Guards (2000), "image": "https://altadefinizionegratis.shop/uploads/thumb/203x293-0-70/2019-08/1566670890-body-guards-guardie-del-corpo.jpg", "url":"https://supervideo.cc/e/b68zj7020iwp" },
+      { "name": "A me mi piace... (1980) (Massimo Boldi)", "image": "", "url": "" },
+      { "name": "Vacanze di Natale 2000 (1999) (varie edizioni)", "image": "", "url": "" },
+      { "name": "Paparazzi (1998) (Christian De Sica)", "image": "", "url": "" },
+      { "name": "Belli di papà (2015) (Christian De Sica)", "image": "", "url": "" },
+      { "name": "Natale sul Nilo (2002) (cinepanettone)", "image": "", "url": "" },
+      { "name": "Vacanze di Natale a Cortina (2011) (riadattamento)", "image": "", "url": "" },
+      { "name": "Natale a Miami (2005)", "image": "", "url": "" },
+      { "name": "Natale a New York (2006)", "image": "", "url": "" },
+      { "name": "A Natale mi sposo (2010) (Christian De Sica)", "image": "", "url": "" },
+      { "name": "Amici Miei (1975) (ruolo De Sica in remake)", "image": "", "url": "" }
+    ]
+  }
+}
