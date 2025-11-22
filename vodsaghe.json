@@ -92,10 +92,55 @@
         "url": "https://supervideo.cc/e/19t2md729da0"
       },
       {
-        "name": "Fast X: Part 2 (2025)",
+        "name": "Fast X: Part 2 (2027)",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1200px-No-Image-Placeholder.svg.png",
         "url": "https://supervideo.cc/e/part2placeholder"
       }
     ]
-  }
+  },
+  "SpiderMan Film": {
+  "Saga": [
+    {
+      "name": "Spider-Man (2002)",
+      "image": "https://www.themoviedb.org/t/p/original/vizO5w0x2Ln8IR2XKOlEYsPmziR.jpg",
+      "url": "https://supervideo.cc/e/la6w0o8eb35f"
+    },
+    {
+      "name": "Spider-Man 2 (2004)",
+      "image": "https://image.tmdb.org/t/p/original/sH8hK05NQSaiq7riNl2lLlfmRiV.jpg",
+      "url": "https://supervideo.cc/e/lkkl72q8hwg1"
+    },
+    {
+      "name": "Spider-Man 3 (2007)",
+      "image": "https://wallpapers.com/images/hd/spider-man-3-3840-x-2160-wallpaper-yeq87mqna836ryuh.jpg",
+      "url": "https://supervideo.cc/e/2zzwhv883m1a"
+    },
+    {
+      "name": "The Amazing Spider-Man (2012)",
+      "image": "https://image.tmdb.org/t/p/original/ww2YPsGe6Yd1nUHH6XVvfj4Rrin.jpg",
+      "url": "https://supervideo.cc/e/7ykulwe4d78i"
+    },
+    {
+      "name": "The Amazing Spider-Man 2 – Il potere di Electro (2014)",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.1zALWnkBwtVnSHIhd6tv2wHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "url": "https://supervideo.cc/e/0gyz7ja1jq41"
+    },
+    {
+      "name": "Spider-Man: Homecoming (2017)",
+      "image": "",
+      "url": ""
+    },
+    {
+      "name": "Spider-Man: Far From Home (2019)",
+      "image": "",
+      "url": ""
+    },
+    {
+      "name": "Spider-Man: No Way Home (2021)",
+      "image": "",
+      "url": ""
+    }
+  ]
+},
+
 }
