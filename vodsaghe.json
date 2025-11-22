@@ -98,7 +98,7 @@
       }
     ]
   },
-  "SpiderMan Film": {
+  "SpiderMan": {
   "Saga": [
     {
       "name": "Spider-Man (2002)",
@@ -141,5 +141,61 @@
       "url": "https://supervideo.cc/e/gddq3d7jve6m"
     }
   ]
+},
+  "IronMan": {
+  "Saga": [
+    {
+      "name": "Iron Man (2008)",
+      "image": "https://image.tmdb.org/t/p/original/rYy4MShKrZVXhiG4BLqwW1PeSOT.jpg",
+      "url": "https://supervideo.cc/e/rn3opt0hrbe3"
+    },
+    {
+      "name": "Iron Man 2 (2010)",
+      "image": "https://www.themoviedb.org/t/p/original/sM0nK7UWxDUUguS5tXET9oLrjAj.jpg",
+      "url": "https://supervideo.cc/e/ylqxtlgbvcwm"
+    },
+    {
+      "name": "Iron Man 3 (2013)",
+      "image": "https://th.bing.com/th/id/R.2b297359527212f042c6d691cad905f1?rik=L8X7vJOoa%2f%2bymg&pid=ImgRaw&r=0",
+      "url": "https://supervideo.cc/e/at4em53mbp01"
+    }
+  ]
+},
+  "Superman": {
+  "Saga": [
+    {
+      "name": "Superman Returns (2006)",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/jcc9ci80/poster/4/y/c/medium-pl-superman-returns-adventure-movies-romance-movie-routh-original-imaetdvbhknga3cy.jpeg?q=90",
+      "url": "https://supervideo.cc/e/kztv29e2zita"
+    },
+    {
+      "name": "Man of Steel (2013)",
+      "image": "https://images6.alphacoders.com/500/thumb-1920-500597.jpg",
+      "url": ""
+    },
+    {
+      "name": "Batman v Superman: Dawn of Justice (2016)",
+      "image": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "url": "https://supervideo.cc/e/md9qehogz33g"
+    },
+    {
+      "name": "Justice League (2017)",
+      "image": "https://image.tmdb.org/t/p/original/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "url": "https://supervideo.cc/e/mkqwhrsucqkm"
+    },
+    {
+      "name": "Zack Snyder's Justice League (2021)",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.fQx-DIgds7csws6QyDXUCQHaKh?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "url": "https://supervideo.cc/e/t7vzlyvdmhfu"
+    },
+    {
+      "name": "Superman (2025)",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.GFvAPEVFKIbF9eUbhwExRgHaKz?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "url": "https://supervideo.cc/e/wux9ljtfbkti"
+    },
+    
+  ]
 }
+
+
 }
