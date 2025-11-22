@@ -1,5 +1,5 @@
 {
- "Karate Kid Film": {
+  "Karate Kid Film": {
     "Saga": [
       {
         "name": "Karate Kid Per Vincere Domani 1984",
@@ -33,60 +33,61 @@
       }
     ]
   },
+
   "FastAndFuriousSaga": [
     {
       "name": "The Fast and the Furious (2001)",
-      "image": "https://wallpaperaccess.com/full/1494992.jpg",  
+      "image": "https://wallpaperaccess.com/full/1494992.jpg",
       "url": "https://supervideo.cc/e/eym5ba8gs4u7"
     },
     {
       "name": "2 Fast 2 Furious (2003)",
-      "image": "https://e1.pngegg.com/pngimages/611/773/png-clipart-movie-icon-1-2-fast-2-furious-2-fast-2-furious-movie-case.png",  
+      "image": "https://e1.pngegg.com/pngimages/611/773/png-clipart-movie-icon-1-2-fast-2-furious-2-fast-2-furious-movie-case.png",
       "url": "https://supervideo.cc/e/8gzibed15vs5"
     },
     {
       "name": "The Fast and the Furious: Tokyo Drift (2006)",
-      "image": "https://www.ibs.it/images/5053083030681_0_0_536_0_75.jpg",  
+      "image": "https://www.ibs.it/images/5053083030681_0_0_536_0_75.jpg",
       "url": "https://supervideo.cc/e/vhuwhol3sevy"
     },
     {
       "name": "Fast & Furious 4 - Solo parti originali (2009)",
-      "image": "https://static.posters.cz/image/1300/114163.jpg",  
+      "image": "https://static.posters.cz/image/1300/114163.jpg",
       "url": "https://supervideo.cc/e/8hu3wxfqt2yq"
     },
     {
       "name": "Fast Five (2011)",
-      "image": "https://ntvb.tmsimg.com/assets/p8338313_v_h8_ae.jpg?w=1280&h=720",  
+      "image": "https://ntvb.tmsimg.com/assets/p8338313_v_h8_ae.jpg?w=1280&h=720",
       "url": "https://supervideo.cc/e/voo3cjzky0nz"
     },
     {
       "name": "Fast & Furious 6 (2013)",
-      "image": "https://m.media-amazon.com/images/I/91S4mNRGxlL._AC_UF894,1000_QL80_.jpg",  
+      "image": "https://m.media-amazon.com/images/I/91S4mNRGxlL._AC_UF894,1000_QL80_.jpg",
       "url": "https://supervideo.cc/e/5xkyvdmaygh5"
     },
     {
       "name": "Fast & Furious 7 (2015)",
-      "image": "https://www.movieartarena.com/imgs/fast7i.jpg",  
+      "image": "https://www.movieartarena.com/imgs/fast7i.jpg",
       "url": "https://supervideo.cc/e/4577no7vv899"
     },
     {
       "name": "Fast 8 (2017)",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-FH2_s9dJi1O4-WfbT6sncQlx3dlLTIV2Q&s",  
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-FH2_s9dJi1O4-WfbT6sncQlx3dlLTIV2Q&s",
       "url": "https://supervideo.cc/e/6hojnxiqj7v4"
     },
     {
       "name": "Fast & Furious Presents: Hobbs & Shaw (2019)",
-      "image": "https://play-lh.googleusercontent.com/PFNOftIwXaAFkXEFf9u_PP6id6bSJq2oDwfuNDcdZ3nDh8NXoGoSw6KWTQ3MlSvZj21A",  
+      "image": "https://play-lh.googleusercontent.com/PFNOftIwXaAFkXEFf9u_PP6id6bSJq2oDwfuNDcdZ3nDh8NXoGoSw6KWTQ3MlSvZj21A",
       "url": "https://supervideo.cc/e/n84yzdf08scb"
     },
     {
       "name": "The Fast 9 (2021)",
-      "image": "https://blob.cede.ch/catalog/17408000/17408855_1_92.jpg",  
+      "image": "https://blob.cede.ch/catalog/17408000/17408855_1_92.jpg",
       "url": "https://supervideo.cc/e/hbkwncl7eknw"
     },
     {
       "name": "Fast X (2023)",
-      "image": "https://m.media-amazon.com/images/S/pv-target-images/5c232079d49f62de791689057cce276e286bc5ae729a5e3236e059e6f0a8109e.jpg",  
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/5c232079d49f62de791689057cce276e286bc5ae729a5e3236e059e6f0a8109e.jpg",
       "url": "https://supervideo.cc/e/19t2md729da0"
     }
   ]
