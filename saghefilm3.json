@@ -26,7 +26,7 @@
     ]
   },
 
-  "IndianaJones": {
+  "Indiana Jones": {
     "Saga": [
       { "name": "I predatori dell'arca perduta (1981)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-09/1506088966-i-predatori-dell-arca-perduta.jpg", "url": "https://supervideo.cc/e/w7ideo1gwgdf" },
       { "name": "Indiana Jones e il tempio maledetto (1984)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-09/1506089147-indiana-jones-e-il-tempio-maledetto.jpg", "url": "https://supervideo.cc/e/hplt2oiy4a0w" },
@@ -36,7 +36,7 @@
     ]
   },
 
-  "FilmCatastrofici": {
+  "Film Catastrofici": {
     "Saga": [
       { "name": "The Day After Tomorrow - L'alba del giorno dopo (2004)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-09/1506363236-the-day-after-tomorrow-l-alba-del-giorno-dopo.jpg", "url": "https://supervideo.cc/e/27ngox8j9jqm" },
       { "name": "2012 (2009)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-10/1508861750-2012.jpg", "url": "https://supervideo.cc/e/sfxcxccp1iue" },
@@ -53,7 +53,7 @@
     ]
   },
 
-  "CheccoZalone": {
+  "Checco Zalone": {
     "Saga": [
       { "name": "Cado dalle nubi (2009)", "image": "https://altadefinizionegratis.shop/uploads/thumb/203x293-0-70/2017-10/1508861669-cado-dalle-nubi.jpg", "url": "https://supervideo.cc/e/e4k1vtme472o" },
       { "name": "Che bella giornata (2011)", "image": "https://altadefinizionegratis.shop/uploads/thumb/203x293-0-70/2018-07/1531941133-che-bella-giornata.jpg", "url": "https://supervideo.cc/e/obh1c392z337" },
@@ -63,20 +63,23 @@
     ]
   },
 
-  "RenatoPozzetto": {
+  "Renato Pozzetto": {
     "Saga": [
-      { "name": "Il ragazzo di campagna (1984)", "image": "", "url": "" },
-      { "name": "Saxofone (1978)", "image": "", "url": "" },
-      { "name": "L'allenatore nel pallone (1984) (cameo non principale)", "image": "", "url": "" },
-      { "name": "Tempo di villeggiatura (1980)", "image": "", "url": "" },
-      { "name": "Per amare Ofelia (1974)", "image": "", "url": "" },
+      { "name": "Il ragazzo di campagna (1984)", "image": "https://altadefinizionegratis.shop/uploads/thumb/203x293-0-70/2020-03/1583925145-il-ragazzo-di-campagna.jpg", "url": "https://supervideo.cc/e/9jpzvg9yt7z9" },
+      { "name": "Saxofone (1978)", "image": "https://altadefinizionegratis.shop/uploads/thumb/203x293-0-70/2024-09/1727367586-144342987.jpg", "url": "https://supervideo.cc/e/i7espdas9qqm" },
       { "name": "La patata bollente (1979)", "image": "", "url": "" },
-      { "name": "Io e lui (1973)", "image": "", "url": "" },
-      { "name": "Nonostante tutto... (1978)", "image": "", "url": "" }
+      { "name": "Per amare Ofelia (1974)", "image": "", "url": "" },
+      { "name": "Mia moglie è una strega (1980)", "image": "", "url": "" },
+      { "name": "Le comiche (1990)", "image": "", "url": "" },
+      { "name": "Le comiche 2 (1991)", "image": "", "url": "" },
+      { "name": "Le nuove comiche (1994)", "image": "", "url": "" },
+      { "name": "Ragazzo di borgata (1976)", "image": "", "url": "" },
+      { "name": "Da grande (1987)", "image": "", "url": "" },
+      { "name": "Le miserie del signor Travet (1975)", "image": "", "url": "" }
     ]
   },
 
-  "Fantozzi": {
+  "Paolo Villaggio": {
     "Saga": [
       { "name": "Fantozzi (1975)", "image": "", "url": "" },
       { "name": "Il secondo tragico Fantozzi (1976)", "image": "", "url": "" },
@@ -84,10 +87,50 @@
       { "name": "Fantozzi subisce ancora (1983)", "image": "", "url": "" },
       { "name": "Fantozzi va in pensione (1988)", "image": "", "url": "" },
       { "name": "Fantozzi alla riscossa (1990)", "image": "", "url": "" },
-      { "name": "Fantozzi in paradiso (1993)", "image": "", "url": "" },
-      { "name": "Fantozzi - Il ritorno (1996)", "image": "", "url": "" }
+      { "name": "Fantozzi in Paradiso (1993)", "image": "", "url": "" },
+      { "name": "Fantozzi – Il ritorno (1996)", "image": "", "url": "" },
+      { "name": "Superfantozzi (1986)", "image": "", "url": "" },
+      { "name": "Fracchia la belva umana (1981)", "image": "", "url": "" },
+      { "name": "Fracchia contro Dracula (1985)", "image": "", "url": "" }
     ]
   },
+
+  "AlvaroVitali": {
+      "Saga": [
+        { "name": "La compagna di banco (1977)", "image": "", "url": "" },
+        { "name": "La supplente (1975)", "image": "", "url": "" },
+        { "name": "La liceale (1975)", "image": "", "url": "" },
+        { "name": "La liceale nella classe dei ripetenti (1978)", "image": "", "url": "" },
+        { "name": "La liceale seduce i professori (1979)", "image": "", "url": "" },
+        { "name": "La liceale al mare con l'amica di papà (1980)", "image": "", "url": "" },
+        { "name": "Pierino contro tutti (1981)", "image": "", "url": "" },
+        { "name": "Pierino medico della SAUB (1981)", "image": "", "url": "" },
+        { "name": "Pierino colpisce ancora (1982)", "image": "", "url": "" },
+        { "name": "Pierino torna a scuola (1990)", "image": "", "url": "" }
+      ]
+    },
+
+    "LinoBanfi": {
+      "Saga": [
+        { "name": "L'allenatore nel pallone (1984)", "image": "", "url": "" },
+        { "name": "L'allenatore nel pallone 2 (2008)", "image": "", "url": "" },
+        { "name": "Cornetti alla crema (1981)", "image": "", "url": "" },
+        { "name": "Occhio, malocchio, prezzemolo e finocchio (1983)", "image": "", "url": "" },
+        { "name": "Vieni avanti cretino (1982)", "image": "", "url": "" },
+        { "name": "Il commissario Lo Gatto (1986)", "image": "", "url": "" },
+        { "name": "Fracchia la belva umana (1981)", "image": "", "url": "" },
+        { "name": "La moglie in bianco... l'amante al pepe (1980)", "image": "", "url": "" },
+        { "name": "Il parroco di San Valentino (1979)", "image": "", "url": "" },
+        { "name": "Interpretò Oronzo Canà in vari film televisivi", "image": "", "url": "" }
+      ]
+    },
+
+  "Pompieri Film": {
+    "Saga": [
+       { "name": "I pompieri (1985)", "image": "", "url": "" },
+       { "name": "I pompieri 2 - Missione eroica (1987)", "image": "", "url": "" }
+   ]
+ },
 
   "Boldi_DeSica": {
     "Saga": [
