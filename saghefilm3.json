@@ -1,28 +1,28 @@
 {
   "MissionImpossible": {
     "Saga": [
-      { "name": "Mission: Impossible (1996)", "image": "", "url": "" },
-      { "name": "Mission: Impossible 2 (2000)", "image": "", "url": "" },
-      { "name": "Mission: Impossible 3 (2006)", "image": "", "url": "" },
-      { "name": "Mission: Impossible - Protocollo Fantasma (2011)", "image": "", "url": "" },
-      { "name": "Mission: Impossible - Rogue Nation (2015)", "image": "", "url": "" },
-      { "name": "Mission: Impossible - Fallout (2018)", "image": "", "url": "" },
-      { "name": "Mission: Impossible - Dead Reckoning Parte Uno (2023)", "image": "", "url": "" },
-      { "name": "Mission: Impossible - Dead Reckoning Parte Due (2025)", "image": "", "url": "" }
+      { "name": "Mission: Impossible (1996)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-09/1505733722-mission-impossible.jpg", "url": "https://supervideo.cc/e/8b5ns0e16elg" },
+      { "name": "Mission: Impossible 2 (2000)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-09/1505734070_mission-2.jpg", "url": "https://supervideo.cc/e/8c5848kb8rej" },
+      { "name": "Mission: Impossible 3 (2006)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-09/1505734074-mission-impossible-iii.jpg", "url": "https://supervideo.cc/e/01tyl4suvsec" },
+      { "name": "Mission: Impossible - Protocollo Fantasma (2011)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-08/1504104513-mission-impossible-protocollo-fantasma.jpg", "url": "https://supervideo.cc/e/gm0cpar3i1ky" },
+      { "name": "Mission: Impossible - Rogue Nation (2015)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-05/1495353414_impossible-rogue-nation.jpg", "url": "https://supervideo.cc/e/umb5sygpsz78" },
+      { "name": "Mission: Impossible - Fallout (2018)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2018-06/1527968447_mission-impossible-fallout-streaming-ita.jpg", "url": "https://supervideo.cc/e/hbmil1eju6kq" },
+      { "name": "Mission: Impossible - Dead Reckoning Parte Uno (2023)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2023-07/1690027863-890737241.jpg", "url": "https://supervideo.cc/e/gla7dric7zve" },
+      { "name": "Mission: Impossible - The Final Reckoning Parte Due (2025)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2025-05/1748284177-867983047.jpg", "url": "https://supervideo.cc/e/lgaq3cfs0dwv" }
     ]
   },
 
   "Alien": {
     "Saga": [
-      { "name": "Alien (1979)", "image": "", "url": "" },
-      { "name": "Aliens - Scontro finale (1986)", "image": "", "url": "" },
-      { "name": "Alien 3 (1992)", "image": "", "url": "" },
-      { "name": "Alien: La clonazione (1997)", "image": "", "url": "" },
-      { "name": "Alien vs. Predator (2004)", "image": "", "url": "" },
-      { "name": "Alien vs. Predator - La resa dei conti (AVP: Requiem) (2007)", "image": "", "url": "" },
-      { "name": "Prometheus (2012)", "image": "", "url": "" },
-      { "name": "Alien: Covenant (2017)", "image": "", "url": "" },
-      { "name": "Alien: Romulus (2024)", "image": "", "url": "" }
+      { "name": "Alien (1979)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-10/1507960265-alien.jpg", "url": "https://supervideo.cc/e/j8t0b06l4ant" },
+      { "name": "Aliens - Scontro finale (1986)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-10/1507471310-aliens-scontro-finale.jpg", "url": "https://supervideo.cc/e/49fx1yzdwyge" },
+      { "name": "Alien 3 (1992)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-10/1507287776_alien-3.jpg", "url": "https://supervideo.cc/e/x4qxw5ztnm52" },
+      { "name": "Alien: La clonazione (1997)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2019-12/1577036188-alien-la-clonazione.jpg", "url": "https://supervideo.cc/e/tnt9wjbvwwbn" },
+      { "name": "Alien vs. Predator (2004)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2019-09/1568465732_alien-vs_-predator-streaming-ita.jpg", "url": "https://supervideo.cc/e/iahklmq67mpy" },
+      { "name": "Alien vs. Predator - La resa dei conti (2007)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2019-09/1568468728-aliens-vs-predator-2.jpg", "url": "https://supervideo.cc/e/wrzzvfzwiu78" },
+      { "name": "Prometheus (2012)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-11/1510680483-prometheus.jpg", "url": "https://supervideo.cc/e/pu7d1stdicjc" },
+      { "name": "Alien: Covenant (2017)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2017-08/1503426087-alien-covenant.jpg", "url": "https://supervideo.cc/e/z5lb7uf4ygzo" },
+      { "name": "Alien: Romulus (2024)", "image": "https://filmpertutti.kaufen/uploads/thumb/320x480-0-60/2024-08/1724079602_alien-romulus-streaming-ita.png", "url": "https://supervideo.cc/e/v6q9mg2xsueg" }
     ]
   },
 
