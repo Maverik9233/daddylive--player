@@ -1,4 +1,5 @@
 {
+  "Dragon Ball Z": {
   "Stagione 1 - Saga di Freezer": [
     { "name": "1 - Il misterioso combattente", "image": "https://dragonball.guru/wp-content/uploads/2021/03/raditz-profile-e1624031860619-400x400.png", "url": "https://serverfile.club/anime/dragon-ball-z/ita/001_100/001.mp4" },
     { "name": "2 - Il fratello di Goku", "image": "https://www.hallofseries.com/wp-content/uploads/2020/09/Radish.png", "url": "https://www.animeworld.ac/play/dragon-ball-z-ita.biybs3/oUnFC" },
@@ -41,4 +42,5 @@
     { "name": "39 - Collisione nello spazio", "image": "https://static.wikia.nocookie.net/dragonball/images/c/cd/Collisione_nello_spazio.png", "url": "https://www.animeworld.ac/play/dragon-ball-z-ita.biybs3/ve_oV" },
     { "name": "40 - A bordo della navicella specchio", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzmuHsGC0TUTxPkKh7kc3DkrUokliniNumQ&s", "url": "https://www.animeworld.ac/play/dragon-ball-z-ita.biybs3/IbxH3" }
   ]
+}
 }
