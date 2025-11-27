@@ -305,7 +305,7 @@
     ]
   },
   "Dragon Ball GT": {
-    "Stagione 2 - Saga della Ricerca nello Spazio": [
+    "Stagione 1 - Saga della Ricerca nello Spazio": [
       { "name": "1 - Esistono altre sette Sfere del Drago!", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/01.mp4" },
       { "name": "2 - Pan parte per lo spazio aperto", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/02.mp4" },
       { "name": "3 - Il pianeta dei mercanti", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/03.mp4" },
@@ -348,7 +348,15 @@
     { "name": "38 - Goku riacquista le forze", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/38.mp4" },
     { "name": "39 - Vittoria!", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/39.mp4" },
     { "name": "40 - La decisione di Junior", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/40.mp4" }
-    ]
+    ],
+    "stagione 3 - Saga di C 17": [
+    { "name": "41 - Un mostro dallo spazio-tempo", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjK7TQe_hNSWk7XQXSBOBTASajMFdomj2gw&s", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/41.mp4" },
+    { "name": "42 - La fuga dall'inferno", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjK7TQe_hNSWk7XQXSBOBTASajMFdomj2gw&s", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/42.mp4" },
+    { "name": "43 - Il ritorno dei nemici del passato", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjK7TQe_hNSWk7XQXSBOBTASajMFdomj2gw&s", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/43.mp4" },
+    { "name": "44 - La vendetta dei due C-17", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjK7TQe_hNSWk7XQXSBOBTASajMFdomj2gw&s", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/44.mp4" },
+    { "name": "45 - Super C-17", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjK7TQe_hNSWk7XQXSBOBTASajMFdomj2gw&s", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/45.mp4" },
+    { "name": "46 - La tragica morte di Crilin", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjK7TQe_hNSWk7XQXSBOBTASajMFdomj2gw&s", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/46.mp4" },
+    { "name": "47 - La fine di C-17", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjK7TQe_hNSWk7XQXSBOBTASajMFdomj2gw&s", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/47.mp4" }
 
   }
 }
