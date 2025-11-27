@@ -305,7 +305,7 @@
     ]
   },
   "Dragon Ball GT": {
-    "Saga della Ricerca nello Spazio": [
+    "Stagione 2 - Saga della Ricerca nello Spazio": [
       { "name": "1 - Esistono altre sette Sfere del Drago!", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/01.mp4" },
       { "name": "2 - Pan parte per lo spazio aperto", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/02.mp4" },
       { "name": "3 - Il pianeta dei mercanti", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/03.mp4" },
@@ -328,6 +328,27 @@
       { "name": "20 - Goku contro Mega-Lilde", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/20.mp4" },
       { "name": "21 - Il piano di Trunks e Gil", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/21.mp4" },
       { "name": "22 - Baby: il nuovo nemico", "image": "https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-ricerca-spazio-v3-637713-1280x960.webp.png", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/22.mp4" }
+    ],
+"stagione 2 - Saga di Baby": [
+    { "name": "23 - Salvataggio nello spazio", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/23.mp4" },
+    { "name": "24 - Baby vuole l'energia dei Saiyan", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/24.mp4" },
+    { "name": "25 - Baby arriva sulla Terra", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/25.mp4" },
+    { "name": "26 - Il cambiamento di Goten",  "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/26.mp4" },
+    { "name": "27 - L'incontro con Vegeta",  "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/27.mp4" },
+    { "name": "28 - Goku torna a casa", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/28.mp4" },
+    { "name": "29 - Goku viene sconfitto", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/29.mp4" },
+    { "name": "30 - Partita con Suguru",  "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/30.mp4" },
+    { "name": "31 - Fuga dallo spazio gioco", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/31.mp4" },
+    { "name": "32 - Ub e Majin Bu di nuovo insieme", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/32.mp4" },
+    { "name": "33 - Ub: una straordinaria potenza", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/33.mp4" },
+    { "name": "34 - Nuova trasformazione per Goku", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/34.mp4" },
+    { "name": "35 - Il Super Saiyan di quarto livello", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/35.mp4" },
+    { "name": "36 - La potenza di Baby",  "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/36.mp4" },
+    { "name": "37 - La soluzione", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/37.mp4" },
+    { "name": "38 - Goku riacquista le forze", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/38.mp4" },
+    { "name": "39 - Vittoria!", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/39.mp4" },
+    { "name": "40 - La decisione di Junior", "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11929147_b_v8_aa.jpg", "url": "https://serverfile.club/anime/dragon-ball-gt/ita/001_100/40.mp4" }
     ]
+
   }
 }
