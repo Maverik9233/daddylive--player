@@ -1,0 +1,193 @@
+{
+  "Film": {
+    "Azione": [
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Commedia": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Comici": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Fantascienza": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Western": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Cartoni Animati": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Drammatico": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Storico": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Thriller": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Horror": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Sentimentale": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Poliziesco": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Giallo": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Avventura": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Erotico": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Guerra": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ],
+    "Musicale": [
+       { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }, 
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      ]
+  }
+}
