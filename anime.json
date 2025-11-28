@@ -376,6 +376,23 @@
     { "name":"62 - Un nuovo alleato", "image":"https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-draghi-malvagi-serie-v3-641226-1280x720.webp.png", "url":"https://serverfile.club/anime/dragon-ball-gt/ita/001_100/62.mp4" },
     { "name":"63 - Goku salva l'universo", "image":"https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-draghi-malvagi-serie-v3-641226-1280x720.webp.png", "url":"https://serverfile.club/anime/dragon-ball-gt/ita/001_100/63.mp4" },
     { "name":"64 - Arrivederci Goku", "image":"https://images.everyeye.it/img-notizie/dragon-ball-gt-riassunto-saga-draghi-malvagi-serie-v3-641226-1280x720.webp.png", "url":"https://serverfile.club/anime/dragon-ball-gt/ita/001_100/64.mp4" }
+   ],
+ "Dragon Ball Super": {
+    "Stagione 1 - saga della Battaglia degli Dei": [
+   { "name": "1 - Chi sarà il misterioso guerriero?", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/001.mp4" },
+   { "name": "2 - Il sogno profetico di Beerus", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/002.mp4" },
+   { "name": "3 - Un ospite inatteso", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/003.mp4" },
+   {"name": "4 - Il Dio della Distruzione si risveglia!", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/004.mp4" },
+   { "name": "5 - Goku contro Beerus!", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/005.mp4" },
+   { "name": "6 - Il potere del Super Saiyan God", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/006.mp4" },
+   { "name": "7 - Vegeta si scatena!", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/007.mp4" },
+   { "name": "8 - La furia di Beerus", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/008.mp4" },
+   {"name": "9 - Il rituale del Super Saiyan God", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/009.mp4" },
+   { "name": "10 - Il Super Saiyan God si manifesta!", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/010.mp4" },
+   { "name": "11 - La battaglia dei due Dei", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/011.mp4" },
+   { "name": "12 - La Terra in pericolo!", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/012.mp4" },
+   { "name": "13 - La fine dello scontro", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/013.mp4" },
+   { "name": "14 - La pace è ristabilita!", "image": "https://static.wikia.nocookie.net/dragonball/images/2/22/Saga_della_Battaglia_degli_Dei.jpg/revision/latest?cb=20180821174933&path-prefix=it", "url":"https://serverfile.club/anime/dragon-ball-super/ita/001_100/014.mp4" }
    ]
        
   }
