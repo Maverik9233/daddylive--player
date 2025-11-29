@@ -107,13 +107,6 @@
 "isHost": true
 },
 {
-"name": "Sky Sports Golf",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png",
-"url": "https://h7.cl/1kd3E",
-"userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-"isHost": true
-},
-{
 "name": "Sky Sports Max",
 "image": "https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/bltd9f5c33376962392/6862a83ee8e8e69ce45cf4ee/skysport-max-200x200.png",
 "url": "https://h7.cl/1fmz4",
@@ -122,8 +115,8 @@
 }
 ],
     "Cinema": [
- { "name": " ", "image": " ", "url": " " },
-{ "name": " ", "image": " ", "url": " " },
+ { "name": "Sky conema action", "image": "https://immagini.quotidiano.net/?url=https%3A%2F%2Fguidatv.quotidiano.net%2Fstaticfiles%2Fimg%2Floghi_tv%2Fsky_cinema_action.png&w=140&h=24&fmt=webp&mode=fill&bg=ffffff", "url": "https://h7.cl/1kdo5" },
+{ "name": "Sky cinema collection", "image": "https://immagini.quotidiano.net/?url=https%3A%2F%2Fguidatv.quotidiano.net%2Fstaticfiles%2Fimg%2Floghi_tv%2Fsky_cinema_collection.png&w=140&h=24&fmt=webp&mode=fill&bg=ffffff", "url": "https://h7.cl/1kdpB" },
       { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
