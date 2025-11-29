@@ -1,9 +1,9 @@
 {
   "Film": {
     "Azione": [
-      { "name": " ", "image": " ", "url": " " },
-{ "name": " ", "image": " ", "url": " " },
-      { "name": " ", "image": " ", "url": " " },
+{ "name": "The Family Plan (2023)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2023-12/1702665510-942407273.jpg", "url": "https://supervideo.cc/e/ekm7y5odhzim" },
+      { "name": "The Family Plan 2 (2025)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2025-11/1763726174-649636870.jpg", "url": "https://supervideo.cc/e/iam87wkqdyte" },
+      { "name": "The Legend (2024)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2024-12/1733265085-630122506.jpg", "url": "https://supervideo.cc/e/jboatdgtxuik" },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
@@ -12,6 +12,8 @@
 { "name": " ", "image": " ", "url": " " }
       ],
     "Commedia": [
+      { "name": "The Family Plan (2023)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2023-12/1702665510-942407273.jpg", "url": "https://supervideo.cc/e/ekm7y5odhzim" },
+            { "name": "The Family Plan 2 (2025)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2025-11/1763726174-649636870.jpg", "url": "https://supervideo.cc/e/iam87wkqdyte" },
        { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
@@ -105,7 +107,7 @@
 { "name": " ", "image": " ", "url": " " }
       ],
     "Horror": [
-       { "name": " ", "image": " ", "url": " " },
+       { "name": " Frankenstein (2025)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2025-11/1762530617-467326877.jpg", "url": "https://supervideo.cc/e/je5b1hcn7vtr" },
 { "name": " ", "image": " ", "url": " " },
       { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
