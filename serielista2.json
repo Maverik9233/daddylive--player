@@ -37,16 +37,12 @@
       { "name": "1x04 Episodio 4", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
       { "name": "1x05 Episodio 5", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
       { "name": "1x06 Episodio 6", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" }
-    ],
-    "Stagione 2": [
-      { "name": "2x01 Episodio 1", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
-      { "name": "2x02 Episodio 2", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
-      { "name": "2x03 Episodio 3", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
-      { "name": "2x04 Episodio 4", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
-      { "name": "2x05 Episodio 5", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
-      { "name": "2x06 Episodio 6", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
-      { "name": "2x07 Episodio 7", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
-      { "name": "2x08 Episodio 8", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" }
+      { "name": "1x07 Episodio 7", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
+      { "name": "1x08 Episodio 8", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
+      { "name": "1x09 Episodio 9", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
+      { "name": "1x10 Episodio 10", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
+      { "name": "1x11 Episodio 11", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
+      { "name": "1x12 Episodio 12", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" }
     ]
   },
   "Il Capo dei Capi": {
