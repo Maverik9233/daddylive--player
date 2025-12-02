@@ -43,16 +43,6 @@
       { "name": "1x10 Episodio 10", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
       { "name": "1x11 Episodio 11", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" },
       { "name": "1x12 Episodio 12", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "" }
-    ]
-  },
-  "Il Capo dei Capi": {
-    "Stagione 1": [
-      { "name": "1x01 Prima puntata (1943-1958)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
-      { "name": "1x02 Seconda puntata (1963-1969)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
-      { "name": "1x03 Terza puntata (1969-1978)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
-      { "name": "1x04 Quarta puntata (1979-1981)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
-      { "name": "1x05 Quinta puntata (1982-1987)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
-      { "name": "1x06 Sesta puntata (1988-1993)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" }
-    ]
+ ]
   }
 }
