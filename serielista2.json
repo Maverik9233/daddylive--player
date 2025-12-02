@@ -49,37 +49,19 @@
 ]
   },
     "Il Capo dei Capi": {
-    "Stagione 1": [   
+         "Stagione 1": [   
       { "name": "1x01 Prima puntata (1943-1958)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
 { "name": "1x02 Seconda puntata (1963-1969)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
 { "name": "1x03 Terza puntata (1969-1978)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
 { "name": "1x04 Quarta puntata (1979-1981)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" },
-{ "name": "1x05 Quinta puntata (1982-1987)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" }, "trama": "La quinta puntata inizia con Pio La Torre, segretario regionale comunista, che da una parte fa un dibattito a Corleone per impedire la costruzione di una base militare a Comiso e dall'altra parte con la Commissione riunita. Nella commissione vi è un certo Apuzzo, un carissimo amico di Tommaso Buscetta che finge di essere fedele a Totò Riina. ",
+{ 
+  "name": "1x05 Quinta puntata (1982-1987)", 
+  "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", 
+  "url": "", 
+  "trama": "La quinta puntata inizia con Pio La Torre, segretario regionale comunista, che da una parte fa un dibattito a Corleone per impedire la costruzione di una base militare a Comiso e dall'altra parte con la Commissione riunita. Nella commissione vi è un certo Apuzzo, un carissimo amico di Tommaso Buscetta che finge di essere fedele a Totò Riina."
+},
+
 { "name": "1x06 Sesta puntata (1988-1993)", "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTMxMjUwOV5BMl5BanBnXkFtZTgwNzY3MTA3MDE@._V1_FMjpg_UX1000_.jpg", "url": "" }
-
-     
-      
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    ]
+   ]
   }
 }
