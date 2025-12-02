@@ -1,15 +1,35 @@
 {
-  "IT: Welcome to Derry": {
+  "Alice in Borderland": {
     "Stagione 1": [
-      { "name": "1 - Il pilota", "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/HBO-IT-Welcome-to-Derry-teaser-trailer.jpg", "url": "https://supervideo.cc/e/anpyxibojzl8" },
-{ "name": "2 - La cosa nel buio", "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/HBO-IT-Welcome-to-Derry-teaser-trailer.jpg", "url": "https://supervideo.cc/e/ak4nw1ja51e7" },
-{ "name": "3 - ora lo vedi", "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/HBO-IT-Welcome-to-Derry-teaser-trailer.jpg", "url": "https://supervideo.cc/e/x46sy6dn72c6" },
-{ "name": "4 - Il grande", "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/HBO-IT-Welcome-to-Derry-teaser-trailer.jpg", "url": "https://supervideo.cc/e/7sz069mmqda7" },
-{ "name": "5 - Il 29 di Neibolt Street", "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/HBO-IT-Welcome-to-Derry-teaser-trailer.jpg", "url": "https://supervideo.cc/e/4e0tihcxv6v6" },
-{ "name": "6 - Nel nome del padre", "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/HBO-IT-Welcome-to-Derry-teaser-trailer.jpg", "url": "https://supervideo.cc/e/7wme11xfp3p3" },
-{ "name": "7 - La macchia nera", "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/HBO-IT-Welcome-to-Derry-teaser-trailer.jpg", "url": "" },
-{ "name": "8 - Fuoco invernale", "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/HBO-IT-Welcome-to-Derry-teaser-trailer.jpg", "url": " " }
-    ]
+      { "name": "1x01 Episodio 1", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "1x02 Episodio 2", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "1x03 Episodio 3", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "1x04 Episodio 4", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "1x05 Episodio 5", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "1x06 Episodio 6", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "1x07 Episodio 7", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "1x08 Episodio 8", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+    ],
+   "Stagione 2": [  
+     { "name": "2x01 Episodio 1", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "2x02 Episodio 2", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "2x03 Episodio 3", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "2x04 Episodio 4", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "2x05 Episodio 5", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "2x06 Episodio 6", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "2x07 Episodio 7", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "2x08 Episodio 8", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" }
+],
+     "Stagione 3": [  
+       { "name": "3x01 Episodio 1", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "3x02 Episodio 2", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "3x03 Episodio 3", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "3x04 Episodio 4", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "3x05 Episodio 5", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "3x06 Episodio 6", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "3x07 Episodio 7", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" },
+{ "name": "3x08 Episodio 8", "image": "https://tse3.mm.bing.net/th/id/OIP.Kg8Wh6pzofYm207EI8O4jQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "" }
+       ]
   },
  "Tulsa King": {
     "Stagione 1": [
