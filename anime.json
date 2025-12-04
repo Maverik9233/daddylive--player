@@ -546,9 +546,9 @@
 ]
   },
   "Sampei": {
-    "Stagione 1 - Saga della Ricerca nello Spazio": [
-{ "name": "Episodio 1", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_001_ITA.mp4" },
-{ "name": "Episodio 2", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_002_ITA.mp4" }
+    "Stagione 1": [
+{ "name": "Episodio 1 - La valle dei lamenti", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_001_ITA.mp4" },
+{ "name": "Episodio 2 - Il mostro ", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_002_ITA.mp4" }
       ]
   }
 }
