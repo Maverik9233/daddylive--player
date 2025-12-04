@@ -548,7 +548,16 @@
   "Sampei": {
     "Stagione 1": [
 { "name": "Episodio 1 - La valle dei lamenti", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_001_ITA.mp4" },
-{ "name": "Episodio 2 - Il mostro ", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_002_ITA.mp4" }
-      ]
+{ "name": "Episodio 2 - Il mostro ", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_002_ITA.mp4" },
+{ "name": "Episodio 3 - La carpa gigante del lago", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_003_ITA.mp4" },
+{ "name": "Episodio 4 - Il pesce gatto mangiauomini", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_004_ITA.mp4" }, 
+{ "name": "Episodio 5 - Il grande salmone", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_005_ITA.mp4" },
+{ "name": "Episodio 6 - Il signore del fiume", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_006_ITA.mp4" },
+{ "name": "Episodio 7 - Il pesce insolito", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_007_ITA.mp4" },
+{ "name": "Episodio 8 - L’anguilla mostruosa", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_008_ITA.mp4" },
+{ "name": "Episodio 9 - La trota iride", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_009_ITA.mp4" },
+{ "name": "Episodio 10 - Il pesce delle rapide", "image": "https://th.bing.com/th/id/OIP.khsjfGfXJeGiP4XKftWu2QHaKt?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3.png", "url": "https://srv29-ayane.sweetpixel.org/DDL/ANIME/Sampei/Sampei_Ep_010_ITA.mp4" }
+       
+    ]
   }
 }
