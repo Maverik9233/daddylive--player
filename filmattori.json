@@ -124,14 +124,15 @@
 
   "Sylvester Stallone": {
     "Saga": [
-     { "name": "Rocky (1976)", "image": "", "url": "" },
-      { "name": "Rocky II (1979)", "image": "", "url": "" },
-      { "name": "Rocky III - Rocky III (1982)", "image": "", "url": "" },
-      { "name": "Rocky IV (1985)", "image": "", "url": "" },
-      { "name": "Rocky V (1990)", "image": "", "url": "" },
-      { "name": "Rocky Balboa (2006)", "image": "", "url": "" },
-      { "name": "Creed (2015) (produttore/ruolo)", "image": "", "url": "" },
-      { "name": "Creed II (2018) (ruolo)", "image": "", "url": "" },
+     { "name": "Rocky (1976)", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Z16Mn-B-smG48-4ycsLi8B7vPN3E_EyUxw&s.png", "url": "https://supervideo.cc/e/k5p0lluehnxu" },
+      { "name": "Rocky II (1979)", "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/14459.jpg", "url": "https://supervideo.cc/e/2us0smv3jbb2" },
+      { "name": "Rocky III - Rocky III (1982)", "image": "https://m.media-amazon.com/images/I/615VQYKATUL._AC_UF894,1000_QL80_.jpg", "url": "https://supervideo.cc/e/81mybtuz6173" },
+      { "name": "Rocky IV (1985)", "image": "https://upload.wikimedia.org/wikipedia/en/9/95/Rocky_IV.jpg", "url": "https://supervideo.cc/e/aiojufx0lqwe" },
+      { "name": "Rocky V (1990)", "image": "https://m.media-amazon.com/images/I/71cPMFQ-1NL._AC_UF894,1000_QL80_.jpg", "url": "https://supervideo.cc/e/7qn90639kfqo" },
+      { "name": "Rocky Balboa (2006)", "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/movih2985__52420.jpg", "url": "https://supervideo.cc/e/vmr3i2vkhjkd" },
+      { "name": "Creed (2015)", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUk0qxSjwjAEh5KjqWJ1Vzqm9zY4_dAocRw&s", "url": "https://supervideo.cc/e/gjyo0fc5xnc5" },
+      { "name": "Creed II (2018) (ruolo)", "image": "https://pad.mymovies.it/filmclub/2018/04/019/locandina.jpg", "url": "https://supervideo.cc/e/dxop8rqj1pvo" },
+      { "name": "Creed III (2023)", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmZPh56dZnzy05B-KpACsy5gdljZRpf7fMw&s", "url": "https://supervideo.cc/e/86ap7jtrbhd9" },
       { "name": "Rambo (1982)", "image": "", "url": "" },
       { "name": "Lo Specialista (1994)", "image": "", "url": "" },
       { "name": "Rambo: First Blood Part II (1985)", "image": "", "url": "" },
