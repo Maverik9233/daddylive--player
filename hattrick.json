@@ -1,8 +1,25 @@
 {
   "Hattrick": {
     " Sky- Dazn": [
-      
-
+      {"name": "sky sport 24 hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sport24hd.htm"},
+{"name": "sky sport 24", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sport24.htm"},
+ {"name": "sky sport uno hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sportuno.htm"},
+{"name": "sky sport uno", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/uno.htm"},
+ {"name": "sky sport calcio", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/calcio.htm"},
+{"name": "sky sport calcio hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/calciohd.htm"},
+ {"name": "sky sport mix hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sportmixhd.htm"},
+{"name": "sky sport mix", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sportmix.htm"},
+ {"name": "sky sport max hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sportmaxhd.htm"},
+{"name": "sky sport max", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sportmax.htm"},
+ {"name": "sky sport arena hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sportarena.htm"},
+{"name": "sky sport arena", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/arena.htm"},
+ {"name": "dazn 1 hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/dazn1.htm"},
+{"name": "sky sport F1 hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/f1hd.htm"},
+{"name": "sky sport F1", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/f1.htm"},
+{"name": "sky sport moto GP hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sportmotohd.htm"},
+ {"name": "sky sport moto GP", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/sportmoto.htm"},
+{"name": "sky sport tennis hd", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/tennishd.htm"},
+ {"name": "sky sport tennis", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/tennis.htm"}
     ],
     "Canali Numerici 1-30": [
 {"name": "hattrick 1", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live1.htm"},
@@ -152,6 +169,8 @@
 {"name": "hattrick 135", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live135.htm"},
 {"name": "hattrick 136", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live136.htm"},
 {"name": "hattrick 137", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live137.htm"},
+{"name": "hattrick 137b", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live137b.htm"},
+{"name": "hattrick 137c", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live137c.htm"},
 {"name": "hattrick 138", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live138.htm"},
 {"name": "hattrick 139", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live139.htm"},
 {"name": "hattrick 140", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live140.htm"},
@@ -161,7 +180,8 @@
 {"name": "hattrick 144", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live144.htm"},
 {"name": "hattrick 145", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live145.htm"},
 {"name": "hattrick 146", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live146.htm"},
-{"name": "hattrick 147", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live147.htm"}
+{"name": "hattrick 147", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live147.htm"},
+{"name": "hattrick 147b", "image": "https://minilink.pro/1kH9C", "url": "https://www.hattrick.ws/live147b.htm"}      
     ]
     }   
 }
