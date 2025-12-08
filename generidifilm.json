@@ -1,28 +1,50 @@
 {
   "Film": {
     "Azione": [
-{ "name": "The Family Plan (2023)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2023-12/1702665510-942407273.jpg", "url": "https://supervideo.cc/e/ekm7y5odhzim" },
-      { "name": "The Family Plan 2 (2025)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2025-11/1763726174-649636870.jpg", "url": "https://supervideo.cc/e/iam87wkqdyte" },
       { "name": "The Legend (2024)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2024-12/1733265085-630122506.jpg", "url": "https://supervideo.cc/e/jboatdgtxuik" },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " }
+      
       ],
-    "Commedia": [
-      { "name": "The Family Plan (2023)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2023-12/1702665510-942407273.jpg", "url": "https://supervideo.cc/e/ekm7y5odhzim" },
-            { "name": "The Family Plan 2 (2025)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2025-11/1763726174-649636870.jpg", "url": "https://supervideo.cc/e/iam87wkqdyte" },
-       { "name": "La leggenda di Al, john e Jack (2002)", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7P3OT7npgHhPD49V-VMeFzy08SJp4Cdl9maBa-J3EbXkJEQClE8WIPq0dMBd-UOdBMyAYRAGstyUKBkbd3lrXJ7SyuKFJHh5KD5PIg&s=10.png", "url": "https://hfs307.serversicuro.cc/dnzpeg2k3pg4a3gyvdch5lbgyy5osrauxvojsagmbz6l4ysfxmcqosarc6ha/La_leggenda_di_Al_John_e_Jack_2002_HD_-_Altadefinizion[supervideo.tv].mp4" },
+        "Action comedy": [
+{ "name": "The Family Plan (2023)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2023-12/1702665510-942407273.jpg", "url": "https://supervideo.cc/e/ekm7y5odhzim" },
+{ "name": "The Family Plan 2 (2025)", "image": "https://altadefinizione.select/uploads/thumb/320x480-0-60/2025-11/1763726174-649636870.jpg", "url": "https://supervideo.cc/e/iam87wkqdyte" },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
-      { "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " }
+    ],
+    "Commedia": [
+{"name": "La leggenda di Al, john e Jack (2002)", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7P3OT7npgHhPD49V-VMeFzy08SJp4Cdl9maBa-J3EbXkJEQClE8WIPq0dMBd-UOdBMyAYRAGstyUKBkbd3lrXJ7SyuKFJHh5KD5PIg&s=10.png", "url": "https://hfs307.serversicuro.cc/dnzpeg2k3pg4a3gyvdch5lbgyy5osrauxvojsagmbz6l4ysfxmcqosarc6ha/La_leggenda_di_Al_John_e_Jack_2002_HD_-_Altadefinizion[supervideo.tv].mp4" },
+{ "name": "AntBoy e l'alba di un nuovo eroe (2016)", "image": "https://www.filmtv.it/imgbank/GALLERYXL/R201609/ant00.jpg", "url": "https://supervideo.cc/e/72xyslgut75p" },
+{ "name": "Antboy (2013)", "image": "https://pad.mymovies.it/filmclub/2014/07/042/locandina.jpg", "url": "https://supervideo.tv/embed-uo511u3t8uli.html" },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " },
+{ "name": " ", "image": " ", "url": " " }
+      
       ],
     "Comici": [
        { "name": " ", "image": " ", "url": " " },
@@ -36,8 +58,8 @@
 { "name": " ", "image": " ", "url": " " }
       ],
     "Fantascienza": [
-       { "name": " ", "image": " ", "url": " " },
-{ "name": " ", "image": " ", "url": " " },
+       { "name": "Predator - Badlands (2025)", "image": "https://pad.mymovies.it/filmclub/2024/12/021/locandinapg3.jpg", "url": "https://supervideo.cc/e/gcegximee3z6" },
+{ "name": "Captain America - Brave New World (2025)", "image": "https://pad.mymovies.it/filmclub/2022/07/117/locandina.jpg", "url": "https://supervideo.tv/embed-566138n0n9ol.html" },
       { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
