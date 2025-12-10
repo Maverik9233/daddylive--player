@@ -44,5 +44,18 @@
       { "name": "1x11 Episodio 11", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "https://supervideo.cc/e/o5vo6wirichp" },
       { "name": "1x12 Episodio 12", "image": "https://th.bing.com/th/id/R.0cff3532ad3a9982416e652053043362?rik=ovVuxLPqCZgl9A&pid=ImgRaw&r=0.png", "url": "https://supervideo.cc/e/sn030bek4yij" }
  ]
-  }
+  },
+"Stranger things": {
+  "Stagione 1": [
+  { "name": "1×01 Capitolo Uno: La scomparsa di Will Byer", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/tsu26ai9g7w8" },
+{ "name": "1×02 Capitolo Due: La stramba di Maple Street", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/yara7400ihjr" },
+{ "name": "1×03 Capitolo Tre: luci natalizie", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/knlhu6m1j4n6" },
+{ "name": "1×04 Capitolo Quattro: Il corpo", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/hrnp8a6lfiud" },
+{ "name": "1×05 Capitolo Cinque: La pulce e l’acrobata", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/273sx8xc8jmv" },
+{ "name": "1×06 Capitolo Sei: Il mostro", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/tt6telhcvs53" },
+{ "name": "1×07 Capitolo Sette: La vasca da bagno", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/i2fp2wgkcoqu" },
+{ "name": "1×08 Capitolo Otto: Il sottosopra", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/h5q2v43oe50x" },
+]
+}
+
 }
