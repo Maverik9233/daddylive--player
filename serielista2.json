@@ -47,14 +47,26 @@
   },
 "Stranger things": {
   "Stagione 1": [
-  { "name": "1×01 Capitolo Uno - La scomparsa di Will Byer", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/tsu26ai9g7w8" },
-{ "name": "1×02 Capitolo Due - La stramba di Maple Street", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/yara7400ihjr" },
-{ "name": "1×03 Capitolo Tre - luci natalizie", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/knlhu6m1j4n6" },
-{ "name": "1×04 Capitolo Quattro - Il corpo", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/hrnp8a6lfiud" },
-{ "name": "1×05 Capitolo Cinque - La pulce e l’acrobata", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/273sx8xc8jmv" },
-{ "name": "1×06 Capitolo Sei - Il mostro", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/tt6telhcvs53" },
-{ "name": "1×07 Capitolo Sette - La vasca da bagno", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/i2fp2wgkcoqu" },
-{ "name": "1×08 Capitolo Otto - Il sottosopra", "image": "https://static.wikia.nocookie.net/strangerthings/images/0/09/Stranger_Things_Season_1.png/revision/latest?cb=20220726152701&path-prefix=it", "url": "https://supervideo.cc/e/h5q2v43oe50x" }
+  { "name": "1×01 Capitolo Uno - La scomparsa di Will Byer", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/tsu26ai9g7w8" },
+{ "name": "1×02 Capitolo Due - La stramba di Maple Street", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/yara7400ihjr" },
+{ "name": "1×03 Capitolo Tre - luci natalizie", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/knlhu6m1j4n6" },
+{ "name": "1×04 Capitolo Quattro - Il corpo", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/hrnp8a6lfiud" },
+{ "name": "1×05 Capitolo Cinque - La pulce e l’acrobata", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/273sx8xc8jmv" },
+{ "name": "1×06 Capitolo Sei - Il mostro", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/tt6telhcvs53" },
+{ "name": "1×07 Capitolo Sette - La vasca da bagno", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/i2fp2wgkcoqu" },
+{ "name": "1×08 Capitolo Otto - Il sottosopra", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/h5q2v43oe50x" }
+  ],
+  "Stagione 2": [
+{ "name": "2×01 Capitolo uno Mad Max", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/1a21bo9xz9ao" },
+{ "name": "2×02 Capitolo due Dolcetto o scherzetto, matto", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/50n2hqv38ne7" },
+{ "name": "2×03 Capitolo tre Il girino", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/clywiprfbr75" },
+{ "name": "2×04 Capitolo quattro Will il saggio", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/xhgk3m3teysp" },
+{ "name": "2×05 Capitolo cinque Dig Dug", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/mqjb38rzakvc" },
+{ "name": "2×06 Capitolo sei La spia", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/cy6j8aaue2kk" },
+{ "name": "2×07 Capitolo sette La sorella perduta", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/2bmqsni5ewxi" },
+{ "name": "2×08 Capitolo otto Il Mind Flayer ", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/dz7nwibvl7e4" },
+{ "name": "2×09 Capitolo nove La porta", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16_7gSxCv_1UftzhMS_uHzO1CnXQZd-FkweYwwmpiZw&s=10.png", "url": "https://supervideo.cc/e/di1j2l7y27b1" }   
+    
   ]
  }
 }
