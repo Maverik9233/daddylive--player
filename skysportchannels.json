@@ -4,49 +4,56 @@
 {
 "name": "Sky Calcio 1 (251)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
-"url": "",
+"url": "https://tv247us.live/embed/event-channel-155/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Calcio 2 (252)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
-"url": "",
+"url": "https://tv247us.live/embed/event-channel-154/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Calcio 3 (253)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
-"url": "",
+"url": "https://tv247us.live/embed/event-channel-151/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Calcio 4 (254)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
-"url": "",
+"url": "https://tv247us.live/embed/event-channel-152/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Calcio 5 (255)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
-"url": "",
+"url": "https://tv247us.live/embed/event-channel-153/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Calcio 6 (256)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
-"url": "",
+"url": "https://tv247us.live/embed/event-channel-110/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Calcio 7 (257)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
-"url": "",
+"url": "https://tv247us.live/embed/event-channel-25/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+"isHost": true
+},
+{
+"name": "Sky Calcio 8 (258)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
+"url": "https://tv247us.live/embed/event-channel-27/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
@@ -67,49 +74,56 @@
 {
 "name": "Sky Sport uno",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE2iXqAQYkkh8AVleQfpl36qzQl-yBi3RkAw&s",
-"url": "",
+"url": "https://tv247us.live/embed/sky-sport-uno-italy/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Sport Arena",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpya67S_hA8gqdbN_0ADELELUWKTHkdnKYsQ&s",
-"url": "",
+"url": "https://tv247us.live/embed/sky-sport-arena-italy/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Sport F1",
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/2560px-Sky_Sports_F1_logo_2020.svg.png",
-"url": "",
+"url": "https://tv247us.live/embed/sky-sport-f1-italy/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
   {
 "name": "Sky Sport Calcio",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1024px-Sky_Sport_Calcio.svg.png",
-"url": "",
+"url": "https://tv247us.live/embed/sky-sport-calcio/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Sport MotoGP",
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Sky_Sport_MotoGP_-_2024_logo.svg/1280px-Sky_Sport_MotoGP_-_2024_logo.svg.png",
-"url": "https://h7.cl/1kd3e",
+"url": "https://tv247us.live/embed/sky-sport-motogp-italy/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+"isHost": true
+},
+      {
+"name": "Sky Sport Golf",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqgQr-4sEmN3Q2KQDcOqby7PSukohIqBR8FDOZq94kg&s=10.png",
+"url": "https://tv247us.live/embed/sky-sports-golf-italy/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Sport Tennis",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png",
-"url": "https://h7.cl/1kd3s",
+"url": "https://tv247us.live/embed/sky-sport-tennis-italy/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
 {
 "name": "Sky Sports Max",
 "image": "https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/bltd9f5c33376962392/6862a83ee8e8e69ce45cf4ee/skysport-max-200x200.png",
-"url": "https://h7.cl/1fmz4",
+"url": "https://tv247us.live/embed/sky-sport-max-italy/",
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
@@ -135,6 +149,7 @@
        ],
     "Intrattenimento": [
        { "name": "Sky uno", "image": "https://immagini.quotidiano.net/?url=https%3A%2F%2Fguidatv.quotidiano.net%2Fstaticfiles%2Fimg%2Floghi_tv%2Fsky_uno.png&w=129&h=36&fmt=webp&mode=fill&bg=ffffff", "url": "https://h7.cl/1kdsd" },
+    { "name": "Sky uno Backup", "image": "https://immagini.quotidiano.net/?url=https%3A%2F%2Fguidatv.quotidiano.net%2Fstaticfiles%2Fimg%2Floghi_tv%2Fsky_uno.png&w=129&h=36&fmt=webp&mode=fill&bg=ffffff", "url": "https://tv247us.live/embed/sky-uno-italy/" },  
       { "name": "Sky serie", "image": "https://immagini.quotidiano.net/?url=https%3A%2F%2Fguidatv.quotidiano.net%2Fstaticfiles%2Fimg%2Floghi_tv%2Fsky_serie.png&w=140&h=35&fmt=webp&mode=fill&bg=ffffff", "url": "https://h7.cl/1fmWN" },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
