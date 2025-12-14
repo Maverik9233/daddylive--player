@@ -115,7 +115,7 @@
 },
       { "name": "Eurosport 1", "image": "https://d204lf4nuskf6u.cloudfront.net/italy-images/8343236da6c44edffaa0eadab4db5191.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV9335mzzLd1qjPF5ZtPr%2FpynYfyi8eU%2BISJWSQ%2Bv9lxKlw%3D%3D", "url": "https://h7.cl/1fmW3" },
       { "name": "Eurosport 2", "image": "https://d204lf4nuskf6u.cloudfront.net/italy-images/8343236da6c44edffaa0eadab4db5191.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV9335mzzLd1qjPF5ZtPr%2FpynYfyi8eU%2BISJWSQ%2Bv9lxKlw%3D%3D", "url": "https://h7.cl/1fmWy" },
-      { "name": "Zona Dazn", "image": "https://api.superguidatv.it/v1/channels/459/logo?width=120&theme=light", "url": "https://h7.cl/1fmX7" }
+ { "name": "Dazn 1", "image": "https://www.sportpress24.com/wp-content/uploads/2021/09/dazn-serie-a.jpeg", "url": "http://urly.it/31d6zy" }
     ],
     "Cinema": [
  { "name": "Sky conema action", "image": "https://immagini.quotidiano.net/?url=https%3A%2F%2Fguidatv.quotidiano.net%2Fstaticfiles%2Fimg%2Floghi_tv%2Fsky_cinema_action.png&w=140&h=24&fmt=webp&mode=fill&bg=ffffff", "url": "https://h7.cl/1kdo5" },
