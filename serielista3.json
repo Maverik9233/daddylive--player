@@ -101,5 +101,22 @@
 { "name": "2X07 - Il giorno piu lungo", "image": "https://mr.comingsoon.it/rsz/serietv/serie/3619/3619.jpg?preset=pstr300.png", "url": "https://supervideo.cc/e/lulx9ph5h9c4" },
 { "name": "2X08 - Elezioni", "image": "https://mr.comingsoon.it/rsz/serietv/serie/3619/3619.jpg?preset=pstr300.png", "url": "https://supervideo.cc/e/t85193di4mnj" }		 
 	  ]
+	},
+	"Percy Jackson": {
+		"Stagione 1": [ 
+{ "name": "1x01 - Disintegro accidentalmente la prof di matematica", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "1x02 - Divento signore supremo del bagno", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "1x03 - Visitiamo l’emporio degli gnomi da giardino", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "1x04 - Mi getto tra le braccia della morte", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "1x05 - Un dio ci compra i cheeseburger", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "1x06 - Portiamo una zebra a Las Vegas", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "1x07 - Scopriamo la verità, più o meno", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "1x08 - La profezia si avvera", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " }
+		],
+		"Stagione 2": [
+{ "name": "2x01 - Gioco a dodgeball con i cannibali", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "2x02 - L’attacco dei piccioni demoniaci", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " },
+{ "name": "2x03 - A bordo della principessa Andromeda", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsVcWfAOnYu0KQ2V6l4tfZiLnK5ew6V2RqHVKKYly35_pyV_AsppKswpYdsnhff3JAk-GPjtjMEzqbiysgKrVimqnaojJtjeyaKAMfnZDag&s=10.png", "url": " " }
+		]
 	}
 }
