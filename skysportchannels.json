@@ -129,7 +129,7 @@
 },
       { "name": "Eurosport 1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWsb8zD_o2zBzsq5FJToq-CNqP0mhfZMLdg&s", "url": "https://juventusonair.com/lv/ck/eurosport/1.php" },
       { "name": "Eurosport 2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWsb8zD_o2zBzsq5FJToq-CNqP0mhfZMLdg&s", "url": "https://juventusonair.com/lv/ck/eurosport/2.php" },
- { "name": "Dazn 1", "image": "https://www.sportpress24.com/wp-content/uploads/2021/09/dazn-serie-a.jpeg", "url": "https://popcdn.day/go.php?stream=ZonaDAZN" }
+ { "name": "Dazn 1", "image": "https://www.sportpress24.com/wp-content/uploads/2021/09/dazn-serie-a.jpeg", "url": "https://popcdn.day/go.php?stream=ZonaDAZN" } 
     ],
     "Cinema": [
  { "name": "Sky conema action", "image": "https://immagini.quotidiano.net/?url=https%3A%2F%2Fguidatv.quotidiano.net%2Fstaticfiles%2Fimg%2Floghi_tv%2Fsky_cinema_action.png&w=140&h=24&fmt=webp&mode=fill&bg=ffffff", "url": "https://h7.cl/1kdo5" },
@@ -166,8 +166,11 @@
       { "name": "Sport TV 5", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv5.php" },
       { "name": "Sport TV 6", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv6.php" },
       { "name": "Sport TV 7", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv.php" },
-       { "name": "", "image": "", "url": "" },
-{ "name": " ", "image": " ", "url": " " },
+       { "name": "TNT 1 UK", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KXv03eiPfuzjXS0r4yg5N3hxY_Ox1Qz9rQ&s", "url": "https://tvonline.great-site.net/channel/canalistranieri/eng/tntsport1.php" },
+       { "name": "TNT 2 UK", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KXv03eiPfuzjXS0r4yg5N3hxY_Ox1Qz9rQ&s", "url": "https://tvonline.great-site.net/channel/canalistranieri/eng/tntsport2.php" },
+       { "name": "TNT 3 UK", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KXv03eiPfuzjXS0r4yg5N3hxY_Ox1Qz9rQ&s", "url": "https://tvonline.great-site.net/channel/canalistranieri/eng/tntsport3.php" },
+       { "name": "TNT 4 UK", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KXv03eiPfuzjXS0r4yg5N3hxY_Ox1Qz9rQ&s", "url": "https://tvonline.great-site.net/channel/canalistranieri/eng/tntsport4.php" },
+       { "name": "CBS GOLAZO USA", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHE_WoWc2YuQ4XmQIntZzFL-Ie4z4YdpsJdQ&s", "url": "https://tvonline.great-site.net/channel/canalistranieri/cbsgolazo.php" },
       { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
