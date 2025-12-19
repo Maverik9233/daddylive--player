@@ -159,8 +159,14 @@
 { "name": " ", "image": " ", "url": " " }
       ],
      "Esteri": [
-       { "name": "Espn", "image": "https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg", "url": "https://librefutboltv.su/es/espn-1/" },
-       { "name": "Dazn 1", "image": "https://www.sportpress24.com/wp-content/uploads/2021/09/dazn-serie-a.jpeg", "url": "http://urly.it/31d6zy" },
+       { "name": "Sport TV 1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv1.php" },
+       { "name": "Sport TV 2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv2.php" },
+      { "name": "Sport TV 3", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv3.php" },
+      { "name": "Sport TV 4", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv4.php" },
+      { "name": "Sport TV 5", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv5.php" },
+      { "name": "Sport TV 6", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv6.php" },
+      { "name": "Sport TV 7", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4nFaJDRrXsUmKiXZ2OxbpQWksN14Fh5SnkwKXZ_P5w&s=10.png", "url": "https://tvonline.great-site.net/channel/canalistranieri/pt/sportv.php" },
+       { "name": "", "image": "", "url": "" },
 { "name": " ", "image": " ", "url": " " },
       { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
