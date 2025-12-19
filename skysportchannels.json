@@ -128,7 +128,7 @@
 "isHost": true
 },
       { "name": "Eurosport 1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWsb8zD_o2zBzsq5FJToq-CNqP0mhfZMLdg&s", "url": "https://juventusonair.com/lv/ck/eurosport/1.php" },
-      { "name": "Eurosport 2", "image": "https://d204lf4nuskf6u.cloudfront.net/italy-images/8343236da6c44edffaa0eadab4db5191.png", "url": "https://juventusonair.com/lv/ck/eurosport/2.php" },
+      { "name": "Eurosport 2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWsb8zD_o2zBzsq5FJToq-CNqP0mhfZMLdg&s", "url": "https://juventusonair.com/lv/ck/eurosport/2.php" },
  { "name": "Dazn 1", "image": "https://www.sportpress24.com/wp-content/uploads/2021/09/dazn-serie-a.jpeg", "url": "https://popcdn.day/go.php?stream=ZonaDAZN" }
     ],
     "Cinema": [
