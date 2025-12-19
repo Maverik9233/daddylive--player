@@ -127,8 +127,8 @@
 "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
 "isHost": true
 },
-      { "name": "Eurosport 1", "image": "https://d204lf4nuskf6u.cloudfront.net/italy-images/8343236da6c44edffaa0eadab4db5191.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV9335mzzLd1qjPF5ZtPr%2FpynYfyi8eU%2BISJWSQ%2Bv9lxKlw%3D%3D", "url": "https://juventusonair.com/lv/ck/eurosport/1.php" },
-      { "name": "Eurosport 2", "image": "https://d204lf4nuskf6u.cloudfront.net/italy-images/8343236da6c44edffaa0eadab4db5191.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV9335mzzLd1qjPF5ZtPr%2FpynYfyi8eU%2BISJWSQ%2Bv9lxKlw%3D%3D", "url": "https://juventusonair.com/lv/ck/eurosport/2.php" },
+      { "name": "Eurosport 1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWsb8zD_o2zBzsq5FJToq-CNqP0mhfZMLdg&s", "url": "https://juventusonair.com/lv/ck/eurosport/1.php" },
+      { "name": "Eurosport 2", "image": "https://d204lf4nuskf6u.cloudfront.net/italy-images/8343236da6c44edffaa0eadab4db5191.png", "url": "https://juventusonair.com/lv/ck/eurosport/2.php" },
  { "name": "Dazn 1", "image": "https://www.sportpress24.com/wp-content/uploads/2021/09/dazn-serie-a.jpeg", "url": "https://tv247us.live/embed/dazn-zona-italy/" }
     ],
     "Cinema": [
