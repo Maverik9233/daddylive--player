@@ -1,9 +1,9 @@
 {
   "Acestream": {
     "Bein sport": [
-{ "name": " ", "image": " ", "url": " " },
-{ "name": " ", "image": " ", "url": " " },
-{ "name": " ", "image": " ", "url": " " },
+{ "name": "Bein 1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RagA504u1rgpocGfP24nO3hQJlHwyEcKEnzSXSAE_xjd5cqhzTS6A0E4&s=10.png", "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0" },
+{ "name": "Bein 2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RagA504u1rgpocGfP24nO3hQJlHwyEcKEnzSXSAE_xjd5cqhzTS6A0E4&s=10.png", "url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc" },
+{ "name": "Bein 3", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RagA504u1rgpocGfP24nO3hQJlHwyEcKEnzSXSAE_xjd5cqhzTS6A0E4&s=10.png", "url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8" },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
 { "name": " ", "image": " ", "url": " " },
