@@ -171,7 +171,7 @@
        { "name": "TNT 3 UK", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KXv03eiPfuzjXS0r4yg5N3hxY_Ox1Qz9rQ&s", "url": "https://tvonline.great-site.net/channel/canalistranieri/eng/tntsport3.php" },
        { "name": "TNT 4 UK", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KXv03eiPfuzjXS0r4yg5N3hxY_Ox1Qz9rQ&s", "url": "https://tvonline.great-site.net/channel/canalistranieri/eng/tntsport4.php" },
        { "name": "CBS GOLAZO USA", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHE_WoWc2YuQ4XmQIntZzFL-Ie4z4YdpsJdQ&s", "url": "https://tvonline.great-site.net/channel/canalistranieri/cbsgolazo.php" },
-      { "name": "Persian sport 1", "image": "https://images.media-panels.com/items/898/item_background_image898.jpg?x=306060059.png", "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports" },
+      { "name": "Persian sport 1", "image": "https://images.media-panels.com/items/898/item_background_image898.jpg?x=306060059.png", "url": "https://stream.live12.ir/hls2/persiana.m3u8" },
 { "name": "Persian sport 2", "image": "https://images.media-panels.com/items/898/item_background_image898.jpg?x=306060059.png", "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports2" },
 { "name": "Persian sport 3", "image": "https://images.media-panels.com/items/898/item_background_image898.jpg?x=306060059.png", "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports-3" },
 { "name": " ", "image": " ", "url": " " },
