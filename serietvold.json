@@ -1,0 +1,36 @@
+{
+  "serie": {
+    "title": "wALKER TEXAS RANGER",
+    "logo": "https://m.media-amazon.com/images/M/MV5BMTc4MzAzMDA2Ml5BMl5BanBnXkFtZTcwNjk3NzIzMQ@@._V1_FMjpg_UX1000_.jpg",
+    "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p184128_b_v13_ab.jpg"
+  },
+ "stagioni": [
+    {
+      "stagione": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4OTQ4NTg3Nl5BMl5BanBnXkFtZTcwNDc1MDg5MQ@@._V1_.jpg",
+      "episodi": [
+        {
+          "ep": 1, "name": "Episodio 1", "url": "https://video.com/s1e1" },
+          "ep": 2, "name": "Episodio 1", "url": "https://video.com/s1e1" },
+          "ep": 3, "name": "Episodio 1", "url": "https://video.com/s1e1" }
+ },
+ {
+      "stagione": 2,
+      "image": "https://m.media-amazon.com/images/I/51uq+Kl-ghL._AC_UF894,1000_QL80_.jpg",
+      "episodi": [
+        {
+          "ep": 1, "name": "Episodio 1", "url": "https://video.com/s1e1" },
+          "ep": 2, "name": "Episodio 1", "url": "https://video.com/s1e1" },
+          "ep": 3, "name": "Episodio 1", "url": "https://video.com/s1e1" }
+ },
+{
+      "stagione": 3,
+      "image": "",
+      "episodi": [
+        {
+          "ep": 1, "name": "Episodio 1", "url": "https://video.com/s1e1" },
+          "ep": 2, "name": "Episodio 1", "url": "https://video.com/s1e1" },
+          "ep": 3, "name": "Episodio 1", "url": "https://video.com/s1e1" }
+         }
+      ]
+   } 
