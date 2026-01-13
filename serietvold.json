@@ -1,5 +1,5 @@
 {
-  "serie_tv": [
+  "Serie Tv": [
     {
       "title": "Walker Texas Ranger",
       "logo": "https://m.media-amazon.com/images/M/MV5BMTc4MzAzMDA2Ml5BMl5BanBnXkFtZTcwNjk3NzIzMQ@@._V1_FMjpg_UX1000_.jpg",
@@ -18,18 +18,18 @@
           "stagione": 2,
           "image": "https://m.media-amazon.com/images/I/51uq+Kl-ghL._AC_UF894,1000_QL80_.jpg",
           "episodi": [
-            { "ep": 1, "name": "Episodio 1", "url": "https://video.com/s2e1" },
-            { "ep": 2, "name": "Episodio 2", "url": "https://video.com/s2e2" },
-            { "ep": 3, "name": "Episodio 3", "url": "https://video.com/s2e3" }
+            { "name": "Episodio 1", "url": "https://video.com/s2e1" },
+            { "name": "Episodio 2", "url": "https://video.com/s2e2" },
+            { "name": "Episodio 3", "url": "https://video.com/s2e3" }
           ]
         },
         {
           "stagione": 3,
           "image": "",
           "episodi": [
-            { "ep": 1, "name": "Episodio 1", "url": "https://video.com/s3e1" },
-            { "ep": 2, "name": "Episodio 2", "url": "https://video.com/s3e2" },
-            { "ep": 3, "name": "Episodio 3", "url": "https://video.com/s3e3" }
+            { "name": "Episodio 1", "url": "https://video.com/s3e1" },
+            { "name": "Episodio 2", "url": "https://video.com/s3e2" },
+            { "name": "Episodio 3", "url": "https://video.com/s3e3" }
           ]
         }
       ]
@@ -43,8 +43,8 @@
           "stagione": 1,
           "image": "",
           "episodi": [
-            { "ep": 1, "name": "Capitolo Uno", "url": "https://video.com/st_s1e1" },
-            { "ep": 2, "name": "Capitolo Due", "url": "https://video.com/st_s1e2" }
+            { "name": "Capitolo Uno", "url": "https://video.com/st_s1e1" },
+            { "name": "Capitolo Due", "url": "https://video.com/st_s1e2" }
           ]
         }
       ]
@@ -58,8 +58,8 @@
           "stagione": 1,
           "image": "",
           "episodi": [
-            { "ep": 1, "name": "Il Mandaloriano", "url": "https://video.com/mando_s1e1" },
-            { "ep": 2, "name": "Il Bambino", "url": "https://video.com/mando_s1e2" }
+            { "name": "Il Mandaloriano", "url": "https://video.com/mando_s1e1" },
+            { "name": "Il Bambino", "url": "https://video.com/mando_s1e2" }
           ]
         }
       ]
