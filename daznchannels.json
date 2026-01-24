@@ -34,5 +34,14 @@
     "origin": "https://fnjplay.xyz",
     "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "isHost": true
+  },
+  {
+    "name": "Dazn HD",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93BS7a4iQ8Lr5qappuk0FK3SghvXm5t7oUDxeIb41rA&s.png",
+    "url": "https://tv247us.live/embed/dazn-zona-italy/",
+    "referer": "https://fnjplay.xyz/",
+    "origin": "https://fnjplay.xyz",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "isHost": true
   }
 ]
