@@ -1,109 +1,177 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Lista TV Completa Veezie</title>
-</head>
-<body>
 
-<h2>RSI</h2>
-<a href="https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8">RSI La1</a><br>
-<a href="https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8">RSI La2</a><br>
+id="serie_a_1"
+Dazn 1 IT$https://www.hattrick.ws/dazn1.htm$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAL_06vFTSjfXIXyCuvDZ6X0UJZk6NyU4Azg&usqp=CAU
 
-<h2>RAI</h2>
-<a href="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7">Rai 1</a><br>
-<a href="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7">Rai 2</a><br>
-<a href="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7">Rai 3</a><br>
-<a href="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7">Rai 4</a><br>
-<a href="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7">Rai 5</a><br>
-<a href="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7">Rai Movie</a><br>
-<a href="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7">Rai Premium</a><br>
-<a href="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7">Rai Sport</a><br>
+id="serie_a_2"
+DAZN 1 HD IT$https://kool.to/play/2303792166/index.m3u8$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93BS7a4iQ8Lr5qappuk0FK3SghvXm5t7oUDxeIb41rA&s.png
 
-<h2>MEDIASET</h2>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hr.mpd">Rete 4</a><br>
-<a href="https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd">Canale 5</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd">Italia 1</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest_hr.mpd">20 Mediaset</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest_hr.mpd">Iris</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest_hr.mpd">27 Mediaset</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest_hr.mpd">La 5</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest_hr.mpd">Cine 34</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest_hr.mpd">Focus</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest_hr.mpd">Top Crime</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest_hr.mpd">Mediaset Extra</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hr.mpd">Boing</a><br>
-<a href="http://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest_hr.mpd">Cartoonito</a><br>
+id="serie_a_3"
+Serie A IT/ENG$http://sportzonline.live/channels/hd/hd7.php$https://tse2.mm.bing.net/th?id=OIP.YbhkmEY4n_cmgKS4t_gKFQHaHa&pid=Api&P=0&h=180
 
-<h2>SPORT ITALIA</h2>
-<a href="https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8">Sportitalia Plus</a><br>
-<a href="https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/A2C6100B283BBDC574ADDCF8F9CEAF0D5E6F64A3/index.m3u8">Sportitalia Live</a><br>
-<a href="https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8">Sportitalia Calcio</a><br>
+id="serie_a_4"
+Serie A IT/ENG$http://sportzonline.live/channels/hd/hd8.php$https://tse2.mm.bing.net/th?id=OIP.YbhkmEY4n_cmgKS4t_gKFQHaHa&pid=Api&P=0&h=180
 
-<h2>DAZN / SERIE A</h2>
-<a href="https://www.hattrick.ws/dazn1.htm">DAZN 1 IT</a><br>
-<a href="https://kool.to/play/2303792166/index.m3u8">DAZN 1 HD IT</a><br>
-<a href="http://sportzonline.live/channels/hd/hd7.php">Serie A IT/ENG HD7</a><br>
-<a href="http://sportzonline.live/channels/hd/hd8.php">Serie A IT/ENG HD8</a><br>
+id="sport_int_1"
+SPORT 1 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd1.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
 
-<h2>SPORT INTERNAZIONALE</h2>
-<a href="http://sportzonline.live/channels/hd/hd1.php">SPORT 1 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/hd/hd2.php">SPORT 2 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/hd/hd3.php">SPORT 3 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/hd/hd4.php">SPORT 4 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/hd/hd5.php">SPORT 5 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/hd/hd6.php">SPORT 6 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/hd/hd9.php">SPORT 7 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/hd/hd10.php">SPORT 8 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/hd/hd11.php">SPORT 9 ENG/POR/SPA</a><br>
-<a href="http://sportzonline.live/channels/bra/br1.php">BRASIL SPORT 1</a><br>
-<a href="http://sportzonline.live/channels/bra/br2.php">BRASIL SPORT 2</a><br>
-<a href="http://sportzonline.live/channels/bra/br3.php">BRASIL SPORT 3</a><br>
-<a href="http://sportzonline.live/channels/bra/br4.php">BRASIL SPORT 4</a><br>
-<a href="http://sportzonline.live/channels/bra/br5.php">BRASIL SPORT 5</a><br>
-<a href="http://sportzonline.live/channels/bra/br6.php">BRASIL SPORT 6</a><br>
-<a href="http://sportzonline.live/channels/pt/sporttv1.php">SPORT TV 1</a><br>
-<a href="http://sportzonline.live/channels/pt/sporttv2.php">SPORT TV 2</a><br>
-<a href="http://sportzonline.live/channels/pt/sporttv3.php">SPORT TV 3</a><br>
-<a href="http://sportzonline.live/channels/pt/sporttv4.php">SPORT TV 4</a><br>
-<a href="http://sportzonline.live/channels/pt/sporttv5.php">SPORT TV 5</a><br>
-<a href="http://sportzonline.live/channels/pt/eleven1.php">ELEVEN SPORT 1</a><br>
-<a href="http://sportzonline.live/channels/pt/eleven2.php">ELEVEN SPORT 2</a><br>
-<a href="http://sportzonline.live/channels/pt/eleven3.php">ELEVEN SPORT 3</a><br>
+id="sport_int_2"
+SPORT 2 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd2.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
 
-<h2>TV ESTERA</h2>
-<a href="https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8">WDR Fernsehen</a><br>
-<a href="https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ">SR Fernsehen</a><br>
-<a href="https://edge02.odtv.az/o7/idman/playlist.m3u8">Idman TV</a><br>
-<a href="https://www.canlitv.legal/cbc-sport">Cbc Sport</a><br>
-<a href="https://alpha.tv.online.tm/hls/ch004.m3u8">Sport del Turkmeinstan</a><br>
-<a href="https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8">ARD DAS ERSTE</a><br>
-<a href="https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA">BR</a><br>
-<a href="https://www.ardmediathek.de/live/Y3JpZDovL2hyLmRlL0xpdmVzdHJlYW0tSFI">HR</a><br>
-<a href="https://www.ardmediathek.de/live/Y3JpZDovL3N3ci5kZS8xMzQ4MTA0Mg">SWR</a><br>
-<a href="https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNkYTY2NGRlLTE4YzItNDY1MC1hNGZmLTRmNjQxNDcyMDcyYg">WDR</a><br>
-<a href="https://www.canlitv.me/1-tv-georgia">1 TV Georgia</a><br>
-<a href="https://canlitv.bond/startv-canli-hd/">STAR TV</a><br>
-<a href="https://www.dr.dk/drtv/">DR1</a><br>
-<a href="https://canlitv.bond/tv85-canli/">TV8.5</a><br>
-<a href="https://canlitv.bond/trthaber/">TRT HABER</a><br>
-<a href="https://canlitv.bond/trt-sporcanli/">TRT SPOR</a><br>
-<a href="https://canlitv.bond/trtspor2/">TRT SPOR 2</a><br>
-<a href="https://canlitv.bond/ictimai-tvcanli/">ICTIMAI TV</a><br>
-<a href="https://livetvstream.me/rtl-live/">RTL</a><br>
-<a href="https://livetvstream.me/orf1-live">ORF 1</a><br>
-<a href="https://livetvstream.me/zdf-live/">ZDF</a><br>
-<a href="https://canlitv.bond/cbcsport-canli/">CBC SPOR</a><br>
-<a href="https://canlitv.bond/idman-tvcanli/">IDMAN TV</a><br>
-<a href="https://canlitv.bond/sports-tv-1/">SPORTS TV</a><br>
-<a href="https://canlitv.bond/az-tv-canli/">AZ TV</a><br>
-<a href="https://canlitv.bond/xezer-tv-1/">XEZER TV</a><br>
-<a href="https://www.canlitv.me/trtsporyildiz-canlii">TRT SPOR YILZIZ</a><br>
-<a href="https://www.canlitv.me/tv85canli-hd">TV8.5 TURK</a><br>
-<a href="https://www.canlitv.me/cbcsportcanli-hd">CBC SPOR TURK</a><br>
-<a href="https://www.canlitv.me/ictimai-tv">ICTIMAI TV TURK</a><br>
-<a href="https://www.canlitv.me/idmantvcanli">IDMAN TV TURK</a><br>
-<a href="https://www.canlitv.me/beinsports-haber">BEIN SPORTS HABER</a><br>
+id="sport_int_3"
+SPORT 3 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd3.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
 
-</body>
-</html>
+id="sport_int_4"
+SPORT 4 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd4.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+
+id="sport_int_5"
+SPORT 5 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd5.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+
+id="sport_int_6"
+SPORT 6 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd6.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+
+id="sport_int_7"
+SPORT 7 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd9.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+
+id="sport_int_8"
+SPORT 8 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd10.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+
+id="sport_int_9"
+SPORT 9 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd11.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+
+id="brasil_sport_1"
+BRASIL SPORT 1$http://sportzonline.live/channels/bra/br1.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+
+id="brasil_sport_2"
+BRASIL SPORT 2$http://sportzonline.live/channels/bra/br2.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+
+id="brasil_sport_3"
+BRASIL SPORT 3$http://sportzonline.live/channels/bra/br3.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+
+id="brasil_sport_4"
+BRASIL SPORT 4$http://sportzonline.live/channels/bra/br4.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+
+id="brasil_sport_5"
+BRASIL SPORT 5$http://sportzonline.live/channels/bra/br5.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+
+id="brasil_sport_6"
+BRASIL SPORT 6$http://sportzonline.live/channels/bra/br6.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+
+id="sport_tv_1"
+SPORT TV 1$http://sportzonline.live/channels/pt/sporttv1.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+
+id="sport_tv_2"
+SPORT TV 2$http://sportzonline.live/channels/pt/sporttv2.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+
+id="sport_tv_3"
+SPORT TV 3$http://sportzonline.live/channels/pt/sporttv3.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+
+id="sport_tv_4"
+SPORT TV 4$http://sportzonline.live/channels/pt/sporttv4.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+
+id="sport_tv_5"
+SPORT TV 5$http://sportzonline.live/channels/pt/sporttv5.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+
+id="eleven_1"
+ELEVEN SPORT 1$http://sportzonline.live/channels/pt/eleven1.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
+
+id="eleven_2"
+ELEVEN SPORT 2$http://sportzonline.live/channels/pt/eleven2.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
+
+id="eleven_3"
+ELEVEN SPORT 3$http://sportzonline.live/channels/pt/eleven3.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
+
+id="tv_estera_1"
+WDR Fernsehen$https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8?$https://tinyurl.com/38eav7sv
+
+id="tv_estera_2"
+SR Fernsehen$https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ$https://www.livehdtv.com/uploads/kanal/31673SR%20Fernsehen.png
+
+id="tv_estera_3"
+Idman TV$https://edge02.odtv.az/o7/idman/playlist.m3u8$https://i.imgur.com/fM9FOrZ.png
+
+id="tv_estera_4"
+Cbc sport$https://www.canlitv.legal/cbc-sport$https://tse4.mm.bing.net/th?id=OIP.dfR5BFIjh2UMw1SUolLSAwHaHZ&pid=Api&P=0&h=180
+
+id="tv_estera_5"
+sport del Turkmeinstan$https://alpha.tv.online.tm/hls/ch004.m3u8$https://tse3.mm.bing.net/th?id=OIP.yEKiJ6x5lcGIUima2sFuRgHaEK&pid=Api&P=0&h=180
+
+id="tv_estera_6"
+ARD DAS ERSTE 1 M3U$https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8$https://www.ard.de/icons/sharing-icon-1280x720.png
+
+id="tv_estera_7"
+ARD DAS ERSTE 1 LINK$https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL2xpdmUvY2xpcC9hYmNhMDdhMy0zNDc2LTQ4NTEtYjE2Mi1mZGU4ZjY0NmQ0YzQ?xtor=CS1-322-[navi]-[all]-[content]-[text]$https://www.ard.de/icons/sharing-icon-1280x720.png
+
+id="tv_estera_8"
+BR$https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA$https://up.yimg.com/ib/th?id=OIP.dETZDPDtKOScZgdzC2-mWwHaFH&pid=Api&rs=1&c=1&qlt=95&w=156&h=107
+
+id="tv_estera_9"
+HR$https://www.ardmediathek.de/live/Y3JpZDovL2hyLmRlL0xpdmVzdHJlYW0tSFI$https://tse3.mm.bing.net/th?id=OIP.2RVzLusQTeGppLn42bi7kQHaGE&pid=Api&P=0&h=180
+
+id="tv_estera_10"
+SR$https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ$https://tse4.mm.bing.net/th?id=OIP.7rV4Ut3ucFoNlwLgfOQR6AHaFq&pid=Api&P=0&h=180
+
+id="tv_estera_11"
+SWR$https://www.ardmediathek.de/live/Y3JpZDovL3N3ci5kZS8xMzQ4MTA0Mg$https://tse2.mm.bing.net/th?id=OIP.LWM1th7Tf2PZ8xE_T89irAHaCR&pid=Api&P=0&h=180
+
+id="tv_estera_12"
+WDR$https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNkYTY2NGRlLTE4YzItNDY1MC1hNGZmLTRmNjQxNDcyMDcyYg$https://tse4.mm.bing.net/th?id=OIP.aQFMmxds2Pq9kASLjxrWOQHaCl&pid=Api&P=0&h=180
+
+id="tv_estera_13"
+WDR AQUISGRANA$https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWE3ODUyMDIwLWQyMjctNDcwZi05NTJlLTJiOWQxMzcyZWQzMA$https://tse4.mm.bing.net/th?id=OIP.aQFMmxds2Pq9kASLjxrWOQHaCl&pid=Api&P=0&h=180
+
+id="tv_estera_14"
+1 TV Georgia$https://www.canlitv.me/1-tv-georgia$https://tse2.mm.bing.net/th?id=OIP.agMWl_8GVmoujQfofr94CAHaD4&pid=Api&P=0&h=180
+
+id="tv_estera_15"
+STAR TV$https://canlitv.bond/startv-canli-hd/$https://tse4.mm.bing.net/th?id=OIP.yGwXn9dnt5N4zgTw1KnfuQHaE6&pid=Api&P=0&h=180
+
+id="tv_estera_16"
+DR1$https://www.dr.dk/drtv/$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNZ2T7ir2kofJjG_TNV3jGgPqK0nZGMUGzA&s
+
+id="tv_estera_17"
+TV8.5$https://canlitv.bond/tv85-canli/$https://tse1.mm.bing.net/th?id=OIP.HeJcZ5s1WDWBCEzW5b8mnwHaFj&pid=Api&P=0&h=180
+
+id="tv_estera_18"
+TRT HABER$https://canlitv.bond/trthaber/$https://tse3.mm.bing.net/th?id=OIP.AbZLBs9VdryAwx0J-yVK6QHaEh&pid=Api&P=0&h=180
+
+id="tv_estera_19"
+TRT SPOR$https://canlitv.bond/trt-sporcanli/$https://tv.canlitv.city/kanallar/trtspor-hd-canli-izle.png
+
+id="tv_estera_20"
+TRT SPOR 2$https://canlitv.bond/trtspor2/$https://tv.canlitv.city/kanallar/trt-spor-2.png
+
+id="tv_estera_21"
+ICTIMAI TV$https://canlitv.bond/ictimai-tvcanli/$https://canlitv.bond/uploads/kanal/20862ictimai-tv.png
+
+id="tv_estera_22"
+RTL$https://livetvstream.me/rtl-live/$https://livetvstream.me/poster/rtl-live.png
+
+id="tv_estera_23"
+ORF 1$https://livetvstream.me/orf1-live$https://tse4.mm.bing.net/th?id=OIP.CGFiDgtBT15-64P1Zrj6YwHaD4&pid=Api&P=0&h=180
+
+id="tv_estera_24"
+ZDF$https://livetvstream.me/zdf-live/$https://livetvstream.me/poster/zdf-live.png
+
+id="tv_estera_25"
+CBC SPOR$https://canlitv.bond/cbcsport-canli/$https://canlitv.bond/uploads/kanal/21387cbc-sport.png
+
+id="tv_estera_26"
+IDMAN TV$https://canlitv.bond/idman-tvcanli/$https://canlitv.bond/uploads/kanal/23296idman-tv.png
+
+id="tv_estera_27"
+SPORTS TV$https://canlitv.bond/sports-tv-1/$https://canlitv.bond/uploads/kanal/25076sports-tv.png
+
+id="tv_estera_28"
+AZ TV$https://canlitv.bond/az-tv-canli/$https://canlitv.bond/uploads/kanal/27921az-tv.png
+
+id="tv_estera_29"
+XEZER TV$https://canlitv.bond/xezer-tv-1/$https://canlitv.bond/uploads/kanal/28785xezer-tv.png
+
+id="tv_estera_30"
+TRT SPOR YILZIZ$https://www.canlitv.me/trtsporyildiz-canlii$https://tse2.mm.bing.net/th?id=OIF.e3TLJgPmqCgkLmVh9gTlow&pid=Api&P=0&h=180
+
+id="tv_estera_31"
+TV8.5 TURK$https://www.canlitv.me/tv85canli-hd$https://tse4.mm.bing.net/th?id=OIP.yGwXn9dnt5N4zgTw1KnfuQHaE6&pid=Api&P=0&h=180
+
+id="tv_estera_32"
+CBC SPOR TURK$https://www.canlitv.me/cbcsport
