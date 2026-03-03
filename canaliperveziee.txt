@@ -1,177 +1,50 @@
+#EXTM3U
 
-id="serie_a_1"
-Dazn 1 IT$https://www.hattrick.ws/dazn1.htm$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAL_06vFTSjfXIXyCuvDZ6X0UJZk6NyU4Azg&usqp=CAU
+#SERIE A
+Dazn 1 IT|https://www.hattrick.ws/dazn1.htm|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAL_06vFTSjfXIXyCuvDZ6X0UJZk6NyU4Azg&usqp=CAU
+DAZN 1 HD IT|https://kool.to/play/2303792166/index.m3u8|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93BS7a4iQ8Lr5qappuk0FK3SghvXm5t7oUDxeIb41rA&s.png
+Serie A IT/ENG 1|http://sportzonline.live/channels/hd/hd7.php|https://tse2.mm.bing.net/th?id=OIP.YbhkmEY4n_cmgKS4t_gKFQHaHa&pid=Api&P=0&h=180
+Serie A IT/ENG 2|http://sportzonline.live/channels/hd/hd8.php|https://tse2.mm.bing.net/th?id=OIP.YbhkmEY4n_cmgKS4t_gKFQHaHa&pid=Api&P=0&h=180
 
-id="serie_a_2"
-DAZN 1 HD IT$https://kool.to/play/2303792166/index.m3u8$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93BS7a4iQ8Lr5qappuk0FK3SghvXm5t7oUDxeIb41rA&s.png
+#SPORT INTERNAZIONALE
+SPORT 1 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd1.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+SPORT 2 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd2.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+SPORT 3 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd3.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+SPORT 4 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd4.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+SPORT 5 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd5.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+SPORT 6 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd6.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+SPORT 7 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd9.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+SPORT 8 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd10.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+SPORT 9 ENG/POR/SPA|http://sportzonline.live/channels/hd/hd11.php|https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
 
-id="serie_a_3"
-Serie A IT/ENG$http://sportzonline.live/channels/hd/hd7.php$https://tse2.mm.bing.net/th?id=OIP.YbhkmEY4n_cmgKS4t_gKFQHaHa&pid=Api&P=0&h=180
+BRASIL SPORT 1|http://sportzonline.live/channels/bra/br1.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+BRASIL SPORT 2|http://sportzonline.live/channels/bra/br2.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+BRASIL SPORT 3|http://sportzonline.live/channels/bra/br3.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+BRASIL SPORT 4|http://sportzonline.live/channels/bra/br4.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+BRASIL SPORT 5|http://sportzonline.live/channels/bra/br5.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
+BRASIL SPORT 6|http://sportzonline.live/channels/bra/br6.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
 
-id="serie_a_4"
-Serie A IT/ENG$http://sportzonline.live/channels/hd/hd8.php$https://tse2.mm.bing.net/th?id=OIP.YbhkmEY4n_cmgKS4t_gKFQHaHa&pid=Api&P=0&h=180
+SPORT TV 1|http://sportzonline.live/channels/pt/sporttv1.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+SPORT TV 2|http://sportzonline.live/channels/pt/sporttv2.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+SPORT TV 3|http://sportzonline.live/channels/pt/sporttv3.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+SPORT TV 4|http://sportzonline.live/channels/pt/sporttv4.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
+SPORT TV 5|http://sportzonline.live/channels/pt/sporttv5.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
 
-id="sport_int_1"
-SPORT 1 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd1.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
+ELEVEN SPORT 1|http://sportzonline.live/channels/pt/eleven1.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
+ELEVEN SPORT 2|http://sportzonline.live/channels/pt/eleven2.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
+ELEVEN SPORT 3|http://sportzonline.live/channels/pt/eleven3.php|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
 
-id="sport_int_2"
-SPORT 2 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd2.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
-
-id="sport_int_3"
-SPORT 3 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd3.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
-
-id="sport_int_4"
-SPORT 4 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd4.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
-
-id="sport_int_5"
-SPORT 5 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd5.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
-
-id="sport_int_6"
-SPORT 6 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd6.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
-
-id="sport_int_7"
-SPORT 7 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd9.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
-
-id="sport_int_8"
-SPORT 8 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd10.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
-
-id="sport_int_9"
-SPORT 9 ENG/POR/SPA$http://sportzonline.live/channels/hd/hd11.php$https://www.formula1.it/admin/foto/un-ferragosto-infuocato-tra-calcio-f1-e-motogp-7066-1.jpg
-
-id="brasil_sport_1"
-BRASIL SPORT 1$http://sportzonline.live/channels/bra/br1.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
-
-id="brasil_sport_2"
-BRASIL SPORT 2$http://sportzonline.live/channels/bra/br2.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
-
-id="brasil_sport_3"
-BRASIL SPORT 3$http://sportzonline.live/channels/bra/br3.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
-
-id="brasil_sport_4"
-BRASIL SPORT 4$http://sportzonline.live/channels/bra/br4.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
-
-id="brasil_sport_5"
-BRASIL SPORT 5$http://sportzonline.live/channels/bra/br5.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
-
-id="brasil_sport_6"
-BRASIL SPORT 6$http://sportzonline.live/channels/bra/br6.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_fBy0UKP2CZBlDLCOgmGsyH3d9wWaFY52A&s
-
-id="sport_tv_1"
-SPORT TV 1$http://sportzonline.live/channels/pt/sporttv1.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
-
-id="sport_tv_2"
-SPORT TV 2$http://sportzonline.live/channels/pt/sporttv2.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
-
-id="sport_tv_3"
-SPORT TV 3$http://sportzonline.live/channels/pt/sporttv3.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
-
-id="sport_tv_4"
-SPORT TV 4$http://sportzonline.live/channels/pt/sporttv4.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
-
-id="sport_tv_5"
-SPORT TV 5$http://sportzonline.live/channels/pt/sporttv5.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV6HRnbYUd4lRUz-cZbtcdyBcDDQvqZEnoQ&s
-
-id="eleven_1"
-ELEVEN SPORT 1$http://sportzonline.live/channels/pt/eleven1.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
-
-id="eleven_2"
-ELEVEN SPORT 2$http://sportzonline.live/channels/pt/eleven2.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
-
-id="eleven_3"
-ELEVEN SPORT 3$http://sportzonline.live/channels/pt/eleven3.php$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfFxmNhbj_IJI2O0RW5yiOoSC9Cjt5jzvvw&s
-
-id="tv_estera_1"
-WDR Fernsehen$https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8?$https://tinyurl.com/38eav7sv
-
-id="tv_estera_2"
-SR Fernsehen$https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ$https://www.livehdtv.com/uploads/kanal/31673SR%20Fernsehen.png
-
-id="tv_estera_3"
-Idman TV$https://edge02.odtv.az/o7/idman/playlist.m3u8$https://i.imgur.com/fM9FOrZ.png
-
-id="tv_estera_4"
-Cbc sport$https://www.canlitv.legal/cbc-sport$https://tse4.mm.bing.net/th?id=OIP.dfR5BFIjh2UMw1SUolLSAwHaHZ&pid=Api&P=0&h=180
-
-id="tv_estera_5"
-sport del Turkmeinstan$https://alpha.tv.online.tm/hls/ch004.m3u8$https://tse3.mm.bing.net/th?id=OIP.yEKiJ6x5lcGIUima2sFuRgHaEK&pid=Api&P=0&h=180
-
-id="tv_estera_6"
-ARD DAS ERSTE 1 M3U$https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8$https://www.ard.de/icons/sharing-icon-1280x720.png
-
-id="tv_estera_7"
-ARD DAS ERSTE 1 LINK$https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL2xpdmUvY2xpcC9hYmNhMDdhMy0zNDc2LTQ4NTEtYjE2Mi1mZGU4ZjY0NmQ0YzQ?xtor=CS1-322-[navi]-[all]-[content]-[text]$https://www.ard.de/icons/sharing-icon-1280x720.png
-
-id="tv_estera_8"
-BR$https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA$https://up.yimg.com/ib/th?id=OIP.dETZDPDtKOScZgdzC2-mWwHaFH&pid=Api&rs=1&c=1&qlt=95&w=156&h=107
-
-id="tv_estera_9"
-HR$https://www.ardmediathek.de/live/Y3JpZDovL2hyLmRlL0xpdmVzdHJlYW0tSFI$https://tse3.mm.bing.net/th?id=OIP.2RVzLusQTeGppLn42bi7kQHaGE&pid=Api&P=0&h=180
-
-id="tv_estera_10"
-SR$https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ$https://tse4.mm.bing.net/th?id=OIP.7rV4Ut3ucFoNlwLgfOQR6AHaFq&pid=Api&P=0&h=180
-
-id="tv_estera_11"
-SWR$https://www.ardmediathek.de/live/Y3JpZDovL3N3ci5kZS8xMzQ4MTA0Mg$https://tse2.mm.bing.net/th?id=OIP.LWM1th7Tf2PZ8xE_T89irAHaCR&pid=Api&P=0&h=180
-
-id="tv_estera_12"
-WDR$https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNkYTY2NGRlLTE4YzItNDY1MC1hNGZmLTRmNjQxNDcyMDcyYg$https://tse4.mm.bing.net/th?id=OIP.aQFMmxds2Pq9kASLjxrWOQHaCl&pid=Api&P=0&h=180
-
-id="tv_estera_13"
-WDR AQUISGRANA$https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWE3ODUyMDIwLWQyMjctNDcwZi05NTJlLTJiOWQxMzcyZWQzMA$https://tse4.mm.bing.net/th?id=OIP.aQFMmxds2Pq9kASLjxrWOQHaCl&pid=Api&P=0&h=180
-
-id="tv_estera_14"
-1 TV Georgia$https://www.canlitv.me/1-tv-georgia$https://tse2.mm.bing.net/th?id=OIP.agMWl_8GVmoujQfofr94CAHaD4&pid=Api&P=0&h=180
-
-id="tv_estera_15"
-STAR TV$https://canlitv.bond/startv-canli-hd/$https://tse4.mm.bing.net/th?id=OIP.yGwXn9dnt5N4zgTw1KnfuQHaE6&pid=Api&P=0&h=180
-
-id="tv_estera_16"
-DR1$https://www.dr.dk/drtv/$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNZ2T7ir2kofJjG_TNV3jGgPqK0nZGMUGzA&s
-
-id="tv_estera_17"
-TV8.5$https://canlitv.bond/tv85-canli/$https://tse1.mm.bing.net/th?id=OIP.HeJcZ5s1WDWBCEzW5b8mnwHaFj&pid=Api&P=0&h=180
-
-id="tv_estera_18"
-TRT HABER$https://canlitv.bond/trthaber/$https://tse3.mm.bing.net/th?id=OIP.AbZLBs9VdryAwx0J-yVK6QHaEh&pid=Api&P=0&h=180
-
-id="tv_estera_19"
-TRT SPOR$https://canlitv.bond/trt-sporcanli/$https://tv.canlitv.city/kanallar/trtspor-hd-canli-izle.png
-
-id="tv_estera_20"
-TRT SPOR 2$https://canlitv.bond/trtspor2/$https://tv.canlitv.city/kanallar/trt-spor-2.png
-
-id="tv_estera_21"
-ICTIMAI TV$https://canlitv.bond/ictimai-tvcanli/$https://canlitv.bond/uploads/kanal/20862ictimai-tv.png
-
-id="tv_estera_22"
-RTL$https://livetvstream.me/rtl-live/$https://livetvstream.me/poster/rtl-live.png
-
-id="tv_estera_23"
-ORF 1$https://livetvstream.me/orf1-live$https://tse4.mm.bing.net/th?id=OIP.CGFiDgtBT15-64P1Zrj6YwHaD4&pid=Api&P=0&h=180
-
-id="tv_estera_24"
-ZDF$https://livetvstream.me/zdf-live/$https://livetvstream.me/poster/zdf-live.png
-
-id="tv_estera_25"
-CBC SPOR$https://canlitv.bond/cbcsport-canli/$https://canlitv.bond/uploads/kanal/21387cbc-sport.png
-
-id="tv_estera_26"
-IDMAN TV$https://canlitv.bond/idman-tvcanli/$https://canlitv.bond/uploads/kanal/23296idman-tv.png
-
-id="tv_estera_27"
-SPORTS TV$https://canlitv.bond/sports-tv-1/$https://canlitv.bond/uploads/kanal/25076sports-tv.png
-
-id="tv_estera_28"
-AZ TV$https://canlitv.bond/az-tv-canli/$https://canlitv.bond/uploads/kanal/27921az-tv.png
-
-id="tv_estera_29"
-XEZER TV$https://canlitv.bond/xezer-tv-1/$https://canlitv.bond/uploads/kanal/28785xezer-tv.png
-
-id="tv_estera_30"
-TRT SPOR YILZIZ$https://www.canlitv.me/trtsporyildiz-canlii$https://tse2.mm.bing.net/th?id=OIF.e3TLJgPmqCgkLmVh9gTlow&pid=Api&P=0&h=180
-
-id="tv_estera_31"
-TV8.5 TURK$https://www.canlitv.me/tv85canli-hd$https://tse4.mm.bing.net/th?id=OIP.yGwXn9dnt5N4zgTw1KnfuQHaE6&pid=Api&P=0&h=180
-
-id="tv_estera_32"
-CBC SPOR TURK$https://www.canlitv.me/cbcsport
+#TV ESTERA
+WDR Fernsehen|https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8?|https://tinyurl.com/38eav7sv
+SR Fernsehen|https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ|https://www.livehdtv.com/uploads/kanal/31673SR%20Fernsehen.png
+Idman TV|https://edge02.odtv.az/o7/idman/playlist.m3u8|https://i.imgur.com/fM9FOrZ.png
+Cbc sport|https://www.canlitv.legal/cbc-sport|https://tse4.mm.bing.net/th?id=OIP.dfR5BFIjh2UMw1SUolLSAwHaHZ&pid=Api&P=0&h=180
+Sport del Turkmeinstan|https://alpha.tv.online.tm/hls/ch004.m3u8|https://tse3.mm.bing.net/th?id=OIP.yEKiJ6x5lcGIUima2sFuRgHaEK&pid=Api&P=0&h=180
+ARD DAS ERSTE 1 M3U|https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8|https://www.ard.de/icons/sharing-icon-1280x720.png
+ARD DAS ERSTE 1 LINK|https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL2xpdmUvY2xpcC9hYmNhMDdhMy0zNDc2LTQ4NTEtYjE2Mi1mZGU4ZjY0NmQ0YzQ?xtor=CS1-322-[navi]-[all]-[content]-[text]|https://www.ard.de/icons/sharing-icon-1280x720.png
+BR|https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA|https://up.yimg.com/ib/th?id=OIP.dETZDPDtKOScZgdzC2-mWwHaFH&pid=Api&rs=1&c=1&qlt=95&w=156&h=107
+HR|https://www.ardmediathek.de/live/Y3JpZDovL2hyLmRlL0xpdmVzdHJlYW0tSFI|https://tse3.mm.bing.net/th?id=OIP.2RVzLusQTeGppLn42bi7kQHaGE&pid=Api&P=0&h=180
+SR|https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ|https://tse4.mm.bing.net/th?id=OIP.7rV4Ut3ucFoNlwLgfOQR6AHaFq&pid=Api&P=0&h=180
+SWR|https://www.ardmediathek.de/live/Y3JpZDovL3N3ci5kZS8xMzQ4MTA0Mg|https://tse2.mm.bing.net/th?id=OIP.LWM1th7Tf2PZ8xE_T89irAHaCR&pid=Api&P=0&h=180
+WDR|https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNkYTY2NGRlLTE4YzItNDY1MC1hNGZmLTRmNjQxNDcyMDcyYg|https://tse4.mm.bing.net/th?id=OIP.aQFMmxds2Pq9kASLjxrWOQHaCl&pid=Api&P=0&h=180
+WDR AQUISGRANA|https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWE3ODUyMDIwLWQyMjctNDcwZi05NTJlLTJiOWQxMzcyZWQzMA|https://tse4.mm.bing.net/th?id=OIP.aQFMmxds2Pq9kASLjxrWOQHaCl&pid=Api&P=0&h=180
