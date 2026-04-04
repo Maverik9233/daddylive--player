@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Film e Serie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQx62eT_Dnv9OPb1GwAnkcQpq1kNa_KJ13XnUp0dOf4Uj63UXUsV5JTuxA&s=10.png",Sito Film X
+https://altadefinizionez.sbs/|webview zoom=100
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/00FF00/FFFFFF?text=Sito+2",Sito Film Y
+https://www.esempio-sitoy.com|webview zoom=100
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/0000FF/FFFFFF?text=Sito+3",Sito Streaming 1
+https://www.esempio-streaming1.com|autoweb zoom=110
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/FF00FF/FFFFFF?text=Sito+4",Sito Streaming 2
+https://www.esempio-streaming2.com|webview zoom=100 scroll=0,200
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/FFFF00/000000?text=Sito+5",Cinema Online A
+https://www.esempio-cinemaA.com|webdeskview zoom=95
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/00FFFF/000000?text=Sito+6",Cinema Online B
+https://www.esempio-cinemaB.com|autoweb zoom=120
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/FF8800/FFFFFF?text=Sito+7",Film HD Z
+https://www.esempio-filmhdZ.com|webview zoom=100
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/8800FF/FFFFFF?text=Sito+8",Serie e Film W
+https://www.esempio-seriefilmW.com|autoweb zoom=105 scroll=50,150
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/008800/FFFFFF?text=Sito+9",Sito Film 9
+https://www.esempio-sito9.com|webview zoom=100
+
+#EXTINF:-1 group-title="Siti Film" tvg-logo="https://via.placeholder.com/300x150/FF0088/FFFFFF?text=Sito+10",Sito Film 10
+https://www.esempio-sito10.com|webdeskview zoom=110
